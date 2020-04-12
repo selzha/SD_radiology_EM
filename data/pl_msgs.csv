@@ -1,0 +1,1538 @@
+block,exp_event,task,timestamp,trial
+,Recording Begins,,1575397360.687795,
+1,Block 1 Begins,Block begins,1575397629.473918,
+1,Begin for trial 1 in block 1,Trial begins,1575397629.517741,1
+1,Fixation dot begins for trial 1 in block 1,Fixation dot,1575397629.517909,1
+1,Image onset for trial 1 in block 1,Image onset,1575397630.580393,1
+1,Adjust Task begins for trial 1 in block 1,Adjust task,1575397632.221977,1
+1,Adjust Task ends for trial 1 in block 1,,1575397638.4716191,1
+1,Ending trial 1 in block 1,End trial,1575397638.488698,1
+1,Begin for trial 2 in block 1,Trial begins,1575397638.489731,2
+1,Fixation dot begins for trial 2 in block 1,Fixation dot,1575397638.48988,2
+1,Image onset for trial 2 in block 1,Image onset,1575397639.6200802,2
+1,Adjust Task begins for trial 2 in block 1,Adjust task,1575397641.18798,2
+1,Adjust Task ends for trial 2 in block 1,,1575397642.704757,2
+1,Ending trial 2 in block 1,End trial,1575397642.7218208,2
+1,Begin for trial 3 in block 1,Trial begins,1575397642.72289,3
+1,Fixation dot begins for trial 3 in block 1,Fixation dot,1575397642.7230191,3
+1,Image onset for trial 3 in block 1,Image onset,1575397643.89805,3
+1,Adjust Task begins for trial 3 in block 1,Adjust task,1575397645.454464,3
+1,Adjust Task ends for trial 3 in block 1,,1575397648.321575,3
+1,Ending trial 3 in block 1,End trial,1575397648.3387709,3
+1,Begin for trial 4 in block 1,Trial begins,1575397648.339616,4
+1,Fixation dot begins for trial 4 in block 1,Fixation dot,1575397648.339732,4
+1,Image onset for trial 4 in block 1,Image onset,1575397649.2353091,4
+1,Adjust Task begins for trial 4 in block 1,Adjust task,1575397650.7884128,4
+1,Adjust Task ends for trial 4 in block 1,,1575397653.338281,4
+1,Ending trial 4 in block 1,End trial,1575397653.355596,4
+1,Begin for trial 5 in block 1,Trial begins,1575397653.3570461,5
+1,Fixation dot begins for trial 5 in block 1,Fixation dot,1575397653.357312,5
+1,Image onset for trial 5 in block 1,Image onset,1575397654.8119712,5
+1,Adjust Task begins for trial 5 in block 1,Adjust task,1575397656.40984,5
+1,Adjust Task ends for trial 5 in block 1,,1575397658.73798,5
+1,Ending trial 5 in block 1,End trial,1575397658.755757,5
+1,Begin for trial 6 in block 1,Trial begins,1575397658.756795,6
+1,Fixation dot begins for trial 6 in block 1,Fixation dot,1575397658.756945,6
+1,Image onset for trial 6 in block 1,Image onset,1575397660.0607018,6
+1,Adjust Task begins for trial 6 in block 1,Adjust task,1575397661.6361978,6
+1,Adjust Task ends for trial 6 in block 1,,1575397664.57198,6
+1,Ending trial 6 in block 1,End trial,1575397664.589493,6
+1,Begin for trial 7 in block 1,Trial begins,1575397664.591008,7
+1,Fixation dot begins for trial 7 in block 1,Fixation dot,1575397664.5911639,7
+1,Image onset for trial 7 in block 1,Image onset,1575397665.6643279,7
+1,Adjust Task begins for trial 7 in block 1,Adjust task,1575397667.222199,7
+1,Adjust Task ends for trial 7 in block 1,,1575397669.571878,7
+1,Ending trial 7 in block 1,End trial,1575397669.5902169,7
+1,Begin for trial 8 in block 1,Trial begins,1575397669.5912478,8
+1,Fixation dot begins for trial 8 in block 1,Fixation dot,1575397669.5913322,8
+1,Image onset for trial 8 in block 1,Image onset,1575397670.727189,8
+1,Adjust Task begins for trial 8 in block 1,Adjust task,1575397672.288857,8
+1,Adjust Task ends for trial 8 in block 1,,1575397674.172044,8
+1,Ending trial 8 in block 1,End trial,1575397674.189014,8
+1,Begin for trial 9 in block 1,Trial begins,1575397674.190054,9
+1,Fixation dot begins for trial 9 in block 1,Fixation dot,1575397674.190132,9
+1,Image onset for trial 9 in block 1,Image onset,1575397675.416694,9
+1,Adjust Task begins for trial 9 in block 1,Adjust task,1575397677.00542,9
+1,Adjust Task ends for trial 9 in block 1,,1575397681.155571,9
+1,Ending trial 9 in block 1,End trial,1575397681.178557,9
+1,Begin for trial 10 in block 1,Trial begins,1575397681.179528,10
+1,Fixation dot begins for trial 10 in block 1,Fixation dot,1575397681.1796448,10
+1,Image onset for trial 10 in block 1,Image onset,1575397682.545596,10
+1,Adjust Task begins for trial 10 in block 1,Adjust task,1575397684.104872,10
+1,Adjust Task ends for trial 10 in block 1,,1575397686.454975,10
+1,Ending trial 10 in block 1,End trial,1575397686.472585,10
+1,Begin for trial 11 in block 1,Trial begins,1575397686.4734972,11
+1,Fixation dot begins for trial 11 in block 1,Fixation dot,1575397686.473611,11
+1,Image onset for trial 11 in block 1,Image onset,1575397687.7109098,11
+1,Adjust Task begins for trial 11 in block 1,Adjust task,1575397689.255254,11
+1,Adjust Task ends for trial 11 in block 1,,1575397693.1399071,11
+1,Ending trial 11 in block 1,End trial,1575397693.15598,11
+1,Begin for trial 12 in block 1,Trial begins,1575397693.156899,12
+1,Fixation dot begins for trial 12 in block 1,Fixation dot,1575397693.157021,12
+1,Image onset for trial 12 in block 1,Image onset,1575397694.22217,12
+1,Adjust Task begins for trial 12 in block 1,Adjust task,1575397695.7836459,12
+1,Adjust Task ends for trial 12 in block 1,,1575397701.590202,12
+1,Ending trial 12 in block 1,End trial,1575397701.606008,12
+1,Begin for trial 13 in block 1,Trial begins,1575397701.6069708,13
+1,Fixation dot begins for trial 13 in block 1,Fixation dot,1575397701.607085,13
+1,Image onset for trial 13 in block 1,Image onset,1575397702.375562,13
+1,Adjust Task begins for trial 13 in block 1,Adjust task,1575397703.923309,13
+1,Adjust Task ends for trial 13 in block 1,,1575397705.521922,13
+1,Ending trial 13 in block 1,End trial,1575397705.539833,13
+1,Begin for trial 14 in block 1,Trial begins,1575397705.540947,14
+1,Fixation dot begins for trial 14 in block 1,Fixation dot,1575397705.541137,14
+1,Image onset for trial 14 in block 1,Image onset,1575397706.869941,14
+1,Adjust Task begins for trial 14 in block 1,Adjust task,1575397708.407336,14
+1,Adjust Task ends for trial 14 in block 1,,1575397709.4727008,14
+1,Ending trial 14 in block 1,End trial,1575397709.492764,14
+1,Begin for trial 15 in block 1,Trial begins,1575397709.494006,15
+1,Fixation dot begins for trial 15 in block 1,Fixation dot,1575397709.494198,15
+1,Image onset for trial 15 in block 1,Image onset,1575397710.518789,15
+1,Adjust Task begins for trial 15 in block 1,Adjust task,1575397712.088586,15
+1,Adjust Task ends for trial 15 in block 1,,1575397713.007622,15
+1,Ending trial 15 in block 1,End trial,1575397713.022784,15
+1,Begin for trial 16 in block 1,Trial begins,1575397713.0238762,16
+1,Fixation dot begins for trial 16 in block 1,Fixation dot,1575397713.023993,16
+1,Image onset for trial 16 in block 1,Image onset,1575397713.9274082,16
+1,Adjust Task begins for trial 16 in block 1,Adjust task,1575397715.473622,16
+1,Adjust Task ends for trial 16 in block 1,,1575397718.056041,16
+1,Ending trial 16 in block 1,End trial,1575397718.073641,16
+1,Begin for trial 17 in block 1,Trial begins,1575397718.07449,17
+1,Fixation dot begins for trial 17 in block 1,Fixation dot,1575397718.0745568,17
+1,Image onset for trial 17 in block 1,Image onset,1575397718.848694,17
+1,Adjust Task begins for trial 17 in block 1,Adjust task,1575397720.388919,17
+1,Adjust Task ends for trial 17 in block 1,,1575397722.072758,17
+1,Ending trial 17 in block 1,End trial,1575397722.0928798,17
+1,Begin for trial 18 in block 1,Trial begins,1575397722.0940201,18
+1,Fixation dot begins for trial 18 in block 1,Fixation dot,1575397722.094114,18
+1,Image onset for trial 18 in block 1,Image onset,1575397722.501152,18
+1,Adjust Task begins for trial 18 in block 1,Adjust task,1575397724.022749,18
+1,Adjust Task ends for trial 18 in block 1,,1575397725.656134,18
+1,Ending trial 18 in block 1,End trial,1575397725.6734452,18
+1,Begin for trial 19 in block 1,Trial begins,1575397725.674434,19
+1,Fixation dot begins for trial 19 in block 1,Fixation dot,1575397725.6745422,19
+1,Image onset for trial 19 in block 1,Image onset,1575397726.642186,19
+1,Adjust Task begins for trial 19 in block 1,Adjust task,1575397728.1891541,19
+1,Adjust Task ends for trial 19 in block 1,,1575397730.923018,19
+1,Ending trial 19 in block 1,End trial,1575397730.942703,19
+1,Begin for trial 20 in block 1,Trial begins,1575397730.943711,20
+1,Fixation dot begins for trial 20 in block 1,Fixation dot,1575397730.943855,20
+1,Image onset for trial 20 in block 1,Image onset,1575397732.345844,20
+1,Adjust Task begins for trial 20 in block 1,Adjust task,1575397733.906742,20
+1,Adjust Task ends for trial 20 in block 1,,1575397741.039766,20
+1,Ending trial 20 in block 1,End trial,1575397741.0590239,20
+1,Begin for trial 21 in block 1,Trial begins,1575397741.0606022,21
+1,Fixation dot begins for trial 21 in block 1,Fixation dot,1575397741.060812,21
+1,Image onset for trial 21 in block 1,Image onset,1575397741.878488,21
+1,Adjust Task begins for trial 21 in block 1,Adjust task,1575397743.40561,21
+1,Adjust Task ends for trial 21 in block 1,,1575397745.422802,21
+1,Ending trial 21 in block 1,End trial,1575397745.4399061,21
+1,Begin for trial 22 in block 1,Trial begins,1575397745.4409258,22
+1,Fixation dot begins for trial 22 in block 1,Fixation dot,1575397745.4411268,22
+1,Image onset for trial 22 in block 1,Image onset,1575397746.2774231,22
+1,Adjust Task begins for trial 22 in block 1,Adjust task,1575397747.823912,22
+1,Adjust Task ends for trial 22 in block 1,,1575397749.356941,22
+1,Ending trial 22 in block 1,End trial,1575397749.376572,22
+1,Begin for trial 23 in block 1,Trial begins,1575397749.3775191,23
+1,Fixation dot begins for trial 23 in block 1,Fixation dot,1575397749.377653,23
+1,Image onset for trial 23 in block 1,Image onset,1575397750.403763,23
+1,Adjust Task begins for trial 23 in block 1,Adjust task,1575397751.9396648,23
+1,Adjust Task ends for trial 23 in block 1,,1575397754.62381,23
+1,Ending trial 23 in block 1,End trial,1575397754.6416278,23
+1,Begin for trial 24 in block 1,Trial begins,1575397754.642859,24
+1,Fixation dot begins for trial 24 in block 1,Fixation dot,1575397754.6430259,24
+1,Image onset for trial 24 in block 1,Image onset,1575397755.808198,24
+1,Adjust Task begins for trial 24 in block 1,Adjust task,1575397757.35719,24
+1,Adjust Task ends for trial 24 in block 1,,1575397764.2249,24
+1,Ending trial 24 in block 1,End trial,1575397764.24076,24
+1,Begin for trial 25 in block 1,Trial begins,1575397764.2415512,25
+1,Fixation dot begins for trial 25 in block 1,Fixation dot,1575397764.241659,25
+1,Image onset for trial 25 in block 1,Image onset,1575397765.8516202,25
+1,Adjust Task begins for trial 25 in block 1,Adjust task,1575397767.406949,25
+1,Adjust Task ends for trial 25 in block 1,,1575397768.8436449,25
+1,Ending trial 25 in block 1,End trial,1575397768.8577778,25
+1,Begin for trial 26 in block 1,Trial begins,1575397768.8828511,26
+1,Fixation dot begins for trial 26 in block 1,Fixation dot,1575397768.8830001,26
+1,Image onset for trial 26 in block 1,Image onset,1575397769.581144,26
+1,Adjust Task begins for trial 26 in block 1,Adjust task,1575397771.3407,26
+1,Adjust Task ends for trial 26 in block 1,,1575397775.0086432,26
+1,Ending trial 26 in block 1,End trial,1575397775.024014,26
+1,Begin for trial 27 in block 1,Trial begins,1575397775.025132,27
+1,Fixation dot begins for trial 27 in block 1,Fixation dot,1575397775.025268,27
+1,Image onset for trial 27 in block 1,Image onset,1575397775.894837,27
+1,Adjust Task begins for trial 27 in block 1,Adjust task,1575397777.456877,27
+1,Adjust Task ends for trial 27 in block 1,,1575397782.623652,27
+1,Ending trial 27 in block 1,End trial,1575397782.641376,27
+1,Begin for trial 28 in block 1,Trial begins,1575397782.64256,28
+1,Fixation dot begins for trial 28 in block 1,Fixation dot,1575397782.642685,28
+1,Image onset for trial 28 in block 1,Image onset,1575397783.917474,28
+1,Adjust Task begins for trial 28 in block 1,Adjust task,1575397785.474077,28
+1,Adjust Task ends for trial 28 in block 1,,1575397788.823651,28
+1,Ending trial 28 in block 1,End trial,1575397788.840816,28
+1,Begin for trial 29 in block 1,Trial begins,1575397788.8420212,29
+1,Fixation dot begins for trial 29 in block 1,Fixation dot,1575397788.842117,29
+1,Image onset for trial 29 in block 1,Image onset,1575397789.954519,29
+1,Adjust Task begins for trial 29 in block 1,Adjust task,1575397791.508113,29
+1,Adjust Task ends for trial 29 in block 1,,1575397793.973623,29
+1,Ending trial 29 in block 1,End trial,1575397793.990815,29
+1,Begin for trial 30 in block 1,Trial begins,1575397793.991898,30
+1,Fixation dot begins for trial 30 in block 1,Fixation dot,1575397793.99214,30
+1,Image onset for trial 30 in block 1,Image onset,1575397795.286516,30
+1,Adjust Task begins for trial 30 in block 1,Adjust task,1575397796.840462,30
+1,Adjust Task ends for trial 30 in block 1,,1575397799.574053,30
+1,Ending trial 30 in block 1,End trial,1575397799.591115,30
+1,Begin for trial 31 in block 1,Trial begins,1575397799.592643,31
+1,Fixation dot begins for trial 31 in block 1,Fixation dot,1575397799.592745,31
+1,Image onset for trial 31 in block 1,Image onset,1575397800.695211,31
+1,Adjust Task begins for trial 31 in block 1,Adjust task,1575397802.240181,31
+1,Adjust Task ends for trial 31 in block 1,,1575397804.407615,31
+1,Ending trial 31 in block 1,End trial,1575397804.4249222,31
+1,Begin for trial 32 in block 1,Trial begins,1575397804.426027,32
+1,Fixation dot begins for trial 32 in block 1,Fixation dot,1575397804.426364,32
+1,Image onset for trial 32 in block 1,Image onset,1575397805.6912,32
+1,Adjust Task begins for trial 32 in block 1,Adjust task,1575397807.2409441,32
+1,Adjust Task ends for trial 32 in block 1,,1575397808.1239831,32
+1,Ending trial 32 in block 1,End trial,1575397808.141255,32
+1,Begin for trial 33 in block 1,Trial begins,1575397808.1423411,33
+1,Fixation dot begins for trial 33 in block 1,Fixation dot,1575397808.142477,33
+1,Image onset for trial 33 in block 1,Image onset,1575397809.0036511,33
+1,Adjust Task begins for trial 33 in block 1,Adjust task,1575397810.5574982,33
+1,Adjust Task ends for trial 33 in block 1,,1575397812.440972,33
+1,Ending trial 33 in block 1,End trial,1575397812.457977,33
+1,Begin for trial 34 in block 1,Trial begins,1575397812.459031,34
+1,Fixation dot begins for trial 34 in block 1,Fixation dot,1575397812.459177,34
+1,Image onset for trial 34 in block 1,Image onset,1575397813.546026,34
+1,Adjust Task begins for trial 34 in block 1,Adjust task,1575397815.108248,34
+1,Adjust Task ends for trial 34 in block 1,,1575397817.158995,34
+1,Ending trial 34 in block 1,End trial,1575397817.175475,34
+1,Begin for trial 35 in block 1,Trial begins,1575397817.1972458,35
+1,Fixation dot begins for trial 35 in block 1,Fixation dot,1575397817.197475,35
+1,Image onset for trial 35 in block 1,Image onset,1575397818.260879,35
+1,Adjust Task begins for trial 35 in block 1,Adjust task,1575397819.8084621,35
+1,Adjust Task ends for trial 35 in block 1,,1575397821.074971,35
+1,Ending trial 35 in block 1,End trial,1575397821.091707,35
+1,Begin for trial 36 in block 1,Trial begins,1575397821.0925179,36
+1,Fixation dot begins for trial 36 in block 1,Fixation dot,1575397821.0925992,36
+1,Image onset for trial 36 in block 1,Image onset,1575397822.283668,36
+1,Adjust Task begins for trial 36 in block 1,Adjust task,1575397823.841693,36
+1,Adjust Task ends for trial 36 in block 1,,1575397825.2572072,36
+1,Ending trial 36 in block 1,End trial,1575397825.277663,36
+1,Begin for trial 37 in block 1,Trial begins,1575397825.278691,37
+1,Fixation dot begins for trial 37 in block 1,Fixation dot,1575397825.278784,37
+1,Image onset for trial 37 in block 1,Image onset,1575397825.672957,37
+1,Adjust Task begins for trial 37 in block 1,Adjust task,1575397827.191301,37
+1,Adjust Task ends for trial 37 in block 1,,1575397829.174301,37
+1,Ending trial 37 in block 1,End trial,1575397829.19195,37
+1,Begin for trial 38 in block 1,Trial begins,1575397829.19304,38
+1,Fixation dot begins for trial 38 in block 1,Fixation dot,1575397829.1932201,38
+1,Image onset for trial 38 in block 1,Image onset,1575397830.539168,38
+1,Adjust Task begins for trial 38 in block 1,Adjust task,1575397832.1417758,38
+1,Adjust Task ends for trial 38 in block 1,,1575397833.4912908,38
+1,Ending trial 38 in block 1,End trial,1575397833.508213,38
+1,Begin for trial 39 in block 1,Trial begins,1575397833.509386,39
+1,Fixation dot begins for trial 39 in block 1,Fixation dot,1575397833.509653,39
+1,Image onset for trial 39 in block 1,Image onset,1575397834.418443,39
+1,Adjust Task begins for trial 39 in block 1,Adjust task,1575397835.974457,39
+1,Adjust Task ends for trial 39 in block 1,,1575397836.8747158,39
+1,Ending trial 39 in block 1,End trial,1575397836.8911738,39
+1,Begin for trial 40 in block 1,Trial begins,1575397836.892226,40
+1,Fixation dot begins for trial 40 in block 1,Fixation dot,1575397836.892321,40
+1,Image onset for trial 40 in block 1,Image onset,1575397838.131127,40
+1,Adjust Task begins for trial 40 in block 1,Adjust task,1575397839.691145,40
+1,Adjust Task ends for trial 40 in block 1,,1575397842.2912052,40
+1,Ending trial 40 in block 1,End trial,1575397842.308086,40
+1,Begin for trial 41 in block 1,Trial begins,1575397842.309255,41
+1,Fixation dot begins for trial 41 in block 1,Fixation dot,1575397842.3093429,41
+1,Image onset for trial 41 in block 1,Image onset,1575397843.320429,41
+1,Adjust Task begins for trial 41 in block 1,Adjust task,1575397844.874532,41
+1,Adjust Task ends for trial 41 in block 1,,1575397847.2578828,41
+1,Ending trial 41 in block 1,End trial,1575397847.275525,41
+1,Begin for trial 42 in block 1,Trial begins,1575397847.2765188,42
+1,Fixation dot begins for trial 42 in block 1,Fixation dot,1575397847.276597,42
+1,Image onset for trial 42 in block 1,Image onset,1575397848.624367,42
+1,Adjust Task begins for trial 42 in block 1,Adjust task,1575397850.191838,42
+1,Adjust Task ends for trial 42 in block 1,,1575397852.0919611,42
+1,Ending trial 42 in block 1,End trial,1575397852.108682,42
+1,Begin for trial 43 in block 1,Trial begins,1575397852.109643,43
+1,Fixation dot begins for trial 43 in block 1,Fixation dot,1575397852.1097631,43
+1,Image onset for trial 43 in block 1,Image onset,1575397853.135792,43
+1,Adjust Task begins for trial 43 in block 1,Adjust task,1575397854.6747332,43
+1,Adjust Task ends for trial 43 in block 1,,1575397858.674168,43
+1,Ending trial 43 in block 1,End trial,1575397858.692566,43
+1,Begin for trial 44 in block 1,Trial begins,1575397858.693425,44
+1,Fixation dot begins for trial 44 in block 1,Fixation dot,1575397858.69355,44
+1,Image onset for trial 44 in block 1,Image onset,1575397860.055986,44
+1,Adjust Task begins for trial 44 in block 1,Adjust task,1575397861.609036,44
+1,Adjust Task ends for trial 44 in block 1,,1575397864.1623611,44
+1,Ending trial 44 in block 1,End trial,1575397864.176107,44
+1,Begin for trial 45 in block 1,Trial begins,1575397864.1772811,45
+1,Fixation dot begins for trial 45 in block 1,Fixation dot,1575397864.1775548,45
+1,Image onset for trial 45 in block 1,Image onset,1575397865.6011279,45
+1,Adjust Task begins for trial 45 in block 1,Adjust task,1575397867.158659,45
+1,Adjust Task ends for trial 45 in block 1,,1575397871.559063,45
+1,Ending trial 45 in block 1,End trial,1575397871.576046,45
+1,Begin for trial 46 in block 1,Trial begins,1575397871.577099,46
+1,Fixation dot begins for trial 46 in block 1,Fixation dot,1575397871.577224,46
+1,Image onset for trial 46 in block 1,Image onset,1575397873.0398011,46
+1,Adjust Task begins for trial 46 in block 1,Adjust task,1575397874.608926,46
+1,Adjust Task ends for trial 46 in block 1,,1575397876.810241,46
+1,Ending trial 46 in block 1,End trial,1575397876.825247,46
+1,Begin for trial 47 in block 1,Trial begins,1575397876.8263419,47
+1,Fixation dot begins for trial 47 in block 1,Fixation dot,1575397876.826427,47
+1,Image onset for trial 47 in block 1,Image onset,1575397877.994354,47
+1,Adjust Task begins for trial 47 in block 1,Adjust task,1575397879.542062,47
+1,Adjust Task ends for trial 47 in block 1,,1575397885.5937111,47
+1,Ending trial 47 in block 1,End trial,1575397885.609938,47
+1,Begin for trial 48 in block 1,Trial begins,1575397885.6111,48
+1,Fixation dot begins for trial 48 in block 1,Fixation dot,1575397885.611291,48
+1,Image onset for trial 48 in block 1,Image onset,1575397886.8121228,48
+1,Adjust Task begins for trial 48 in block 1,Adjust task,1575397888.358834,48
+1,Adjust Task ends for trial 48 in block 1,,1575397889.459989,48
+1,Ending trial 48 in block 1,End trial,1575397889.4806201,48
+1,Begin for trial 49 in block 1,Trial begins,1575397889.481889,49
+1,Fixation dot begins for trial 49 in block 1,Fixation dot,1575397889.481982,49
+1,Image onset for trial 49 in block 1,Image onset,1575397890.9949079,49
+1,Adjust Task begins for trial 49 in block 1,Adjust task,1575397892.595445,49
+1,Adjust Task ends for trial 49 in block 1,,1575397896.260801,49
+1,Ending trial 49 in block 1,End trial,1575397896.2764318,49
+1,Begin for trial 50 in block 1,Trial begins,1575397896.277571,50
+1,Fixation dot begins for trial 50 in block 1,Fixation dot,1575397896.27776,50
+1,Image onset for trial 50 in block 1,Image onset,1575397897.269879,50
+1,Adjust Task begins for trial 50 in block 1,Adjust task,1575397898.8260128,50
+1,Adjust Task ends for trial 50 in block 1,,1575397899.642612,50
+1,Ending trial 50 in block 1,End trial,1575397899.658984,50
+1,Begin for trial 51 in block 1,Trial begins,1575397899.659981,51
+1,Fixation dot begins for trial 51 in block 1,Fixation dot,1575397899.660063,51
+1,Image onset for trial 51 in block 1,Image onset,1575397900.6593258,51
+1,Adjust Task begins for trial 51 in block 1,Adjust task,1575397902.247336,51
+1,Adjust Task ends for trial 51 in block 1,,1575397904.475971,51
+1,Ending trial 51 in block 1,End trial,1575397904.4924002,51
+1,Begin for trial 52 in block 1,Trial begins,1575397904.4935381,52
+1,Fixation dot begins for trial 52 in block 1,Fixation dot,1575397904.493902,52
+1,Image onset for trial 52 in block 1,Image onset,1575397905.901797,52
+1,Adjust Task begins for trial 52 in block 1,Adjust task,1575397907.459554,52
+1,Adjust Task ends for trial 52 in block 1,,1575397911.3433652,52
+1,Ending trial 52 in block 1,End trial,1575397911.359797,52
+1,Begin for trial 53 in block 1,Trial begins,1575397911.3610082,53
+1,Fixation dot begins for trial 53 in block 1,Fixation dot,1575397911.361165,53
+1,Image onset for trial 53 in block 1,Image onset,1575397912.608182,53
+1,Adjust Task begins for trial 53 in block 1,Adjust task,1575397914.159602,53
+1,Adjust Task ends for trial 53 in block 1,,1575397916.641655,53
+1,Ending trial 53 in block 1,End trial,1575397916.659743,53
+1,Begin for trial 54 in block 1,Trial begins,1575397916.660738,54
+1,Fixation dot begins for trial 54 in block 1,Fixation dot,1575397916.660873,54
+1,Image onset for trial 54 in block 1,Image onset,1575397917.927878,54
+1,Adjust Task begins for trial 54 in block 1,Adjust task,1575397919.476468,54
+1,Adjust Task ends for trial 54 in block 1,,1575397922.059566,54
+1,Ending trial 54 in block 1,End trial,1575397922.076627,54
+1,Begin for trial 55 in block 1,Trial begins,1575397922.0776489,55
+1,Fixation dot begins for trial 55 in block 1,Fixation dot,1575397922.077773,55
+1,Image onset for trial 55 in block 1,Image onset,1575397923.466472,55
+1,Adjust Task begins for trial 55 in block 1,Adjust task,1575397925.025834,55
+1,Adjust Task ends for trial 55 in block 1,,1575397925.8934999,55
+1,Ending trial 55 in block 1,End trial,1575397925.910183,55
+1,Begin for trial 56 in block 1,Trial begins,1575397925.911102,56
+1,Fixation dot begins for trial 56 in block 1,Fixation dot,1575397925.911181,56
+1,Image onset for trial 56 in block 1,Image onset,1575397927.1320598,56
+1,Adjust Task begins for trial 56 in block 1,Adjust task,1575397928.676424,56
+1,Adjust Task ends for trial 56 in block 1,,1575397931.4270651,56
+1,Ending trial 56 in block 1,End trial,1575397931.4431412,56
+1,Begin for trial 57 in block 1,Trial begins,1575397931.444639,57
+1,Fixation dot begins for trial 57 in block 1,Fixation dot,1575397931.4447832,57
+1,Image onset for trial 57 in block 1,Image onset,1575397932.66496,57
+1,Adjust Task begins for trial 57 in block 1,Adjust task,1575397934.210604,57
+1,Adjust Task ends for trial 57 in block 1,,1575397937.593802,57
+1,Ending trial 57 in block 1,End trial,1575397937.610455,57
+1,Begin for trial 58 in block 1,Trial begins,1575397937.611567,58
+1,Fixation dot begins for trial 58 in block 1,Fixation dot,1575397937.6117098,58
+1,Image onset for trial 58 in block 1,Image onset,1575397938.991006,58
+1,Adjust Task begins for trial 58 in block 1,Adjust task,1575397940.5430331,58
+1,Adjust Task ends for trial 58 in block 1,,1575397941.143073,58
+1,Ending trial 58 in block 1,End trial,1575397941.163348,58
+1,Begin for trial 59 in block 1,Trial begins,1575397941.164544,59
+1,Fixation dot begins for trial 59 in block 1,Fixation dot,1575397941.164643,59
+1,Image onset for trial 59 in block 1,Image onset,1575397942.5247202,59
+1,Adjust Task begins for trial 59 in block 1,Adjust task,1575397944.109849,59
+1,Adjust Task ends for trial 59 in block 1,,1575397946.410132,59
+1,Ending trial 59 in block 1,End trial,1575397946.426774,59
+1,Begin for trial 60 in block 1,Trial begins,1575397946.427854,60
+1,Fixation dot begins for trial 60 in block 1,Fixation dot,1575397946.428052,60
+1,Image onset for trial 60 in block 1,Image onset,1575397947.8742368,60
+1,Adjust Task begins for trial 60 in block 1,Adjust task,1575397949.4428759,60
+1,Adjust Task ends for trial 60 in block 1,,1575397951.9948559,60
+1,Ending trial 60 in block 1,End trial,1575397952.01046,60
+1,Begin for trial 61 in block 1,Trial begins,1575397952.0116532,61
+1,Fixation dot begins for trial 61 in block 1,Fixation dot,1575397952.011839,61
+1,Image onset for trial 61 in block 1,Image onset,1575397952.9508722,61
+1,Adjust Task begins for trial 61 in block 1,Adjust task,1575397954.52622,61
+1,Adjust Task ends for trial 61 in block 1,,1575397959.177063,61
+1,Ending trial 61 in block 1,End trial,1575397959.1941938,61
+1,Begin for trial 62 in block 1,Trial begins,1575397959.195334,62
+1,Fixation dot begins for trial 62 in block 1,Fixation dot,1575397959.1955059,62
+1,Image onset for trial 62 in block 1,Image onset,1575397960.095548,62
+1,Adjust Task begins for trial 62 in block 1,Adjust task,1575397961.642905,62
+1,Adjust Task ends for trial 62 in block 1,,1575397963.8275971,62
+1,Ending trial 62 in block 1,End trial,1575397963.843363,62
+1,Begin for trial 63 in block 1,Trial begins,1575397963.844866,63
+1,Fixation dot begins for trial 63 in block 1,Fixation dot,1575397963.845076,63
+1,Image onset for trial 63 in block 1,Image onset,1575397965.377454,63
+1,Adjust Task begins for trial 63 in block 1,Adjust task,1575397966.9437592,63
+1,Adjust Task ends for trial 63 in block 1,,1575397968.9440901,63
+1,Ending trial 63 in block 1,End trial,1575397968.960625,63
+1,Begin for trial 64 in block 1,Trial begins,1575397968.961965,64
+1,Fixation dot begins for trial 64 in block 1,Fixation dot,1575397968.9621172,64
+1,Image onset for trial 64 in block 1,Image onset,1575397970.1303139,64
+1,Adjust Task begins for trial 64 in block 1,Adjust task,1575397971.677119,64
+1,Adjust Task ends for trial 64 in block 1,,1575397972.696335,64
+1,Ending trial 64 in block 1,End trial,1575397972.710724,64
+1,Begin for trial 65 in block 1,Trial begins,1575397972.711607,65
+1,Fixation dot begins for trial 65 in block 1,Fixation dot,1575397972.7117062,65
+1,Image onset for trial 65 in block 1,Image onset,1575397973.85998,65
+1,Adjust Task begins for trial 65 in block 1,Adjust task,1575397975.41035,65
+1,Adjust Task ends for trial 65 in block 1,,1575397976.010197,65
+1,Ending trial 65 in block 1,End trial,1575397976.0271091,65
+1,Begin for trial 66 in block 1,Trial begins,1575397976.0278962,66
+1,Fixation dot begins for trial 66 in block 1,Fixation dot,1575397976.02798,66
+1,Image onset for trial 66 in block 1,Image onset,1575397977.3008482,66
+1,Adjust Task begins for trial 66 in block 1,Adjust task,1575397978.860613,66
+1,Adjust Task ends for trial 66 in block 1,,1575397980.394099,66
+1,Ending trial 66 in block 1,End trial,1575397980.4113002,66
+1,Begin for trial 67 in block 1,Trial begins,1575397980.4127629,67
+1,Fixation dot begins for trial 67 in block 1,Fixation dot,1575397980.413085,67
+1,Image onset for trial 67 in block 1,Image onset,1575397981.595264,67
+1,Adjust Task begins for trial 67 in block 1,Adjust task,1575397983.1458821,67
+1,Adjust Task ends for trial 67 in block 1,,1575397983.861417,67
+1,Ending trial 67 in block 1,End trial,1575397983.878004,67
+1,Begin for trial 68 in block 1,Trial begins,1575397983.8792691,68
+1,Fixation dot begins for trial 68 in block 1,Fixation dot,1575397983.879426,68
+1,Image onset for trial 68 in block 1,Image onset,1575397984.694061,68
+1,Adjust Task begins for trial 68 in block 1,Adjust task,1575397986.244046,68
+1,Adjust Task ends for trial 68 in block 1,,1575397990.828154,68
+1,Ending trial 68 in block 1,End trial,1575397990.8448918,68
+1,Begin for trial 69 in block 1,Trial begins,1575397990.846085,69
+1,Fixation dot begins for trial 69 in block 1,Fixation dot,1575397990.8461618,69
+1,Image onset for trial 69 in block 1,Image onset,1575397992.504668,69
+1,Adjust Task begins for trial 69 in block 1,Adjust task,1575397994.061648,69
+1,Adjust Task ends for trial 69 in block 1,,1575397995.6615949,69
+1,Ending trial 69 in block 1,End trial,1575397995.677919,69
+1,Begin for trial 70 in block 1,Trial begins,1575397995.6790771,70
+1,Fixation dot begins for trial 70 in block 1,Fixation dot,1575397995.679233,70
+1,Image onset for trial 70 in block 1,Image onset,1575397996.620599,70
+1,Adjust Task begins for trial 70 in block 1,Adjust task,1575397998.159988,70
+1,Adjust Task ends for trial 70 in block 1,,1575397999.0948648,70
+1,Ending trial 70 in block 1,End trial,1575397999.111459,70
+1,Begin for trial 71 in block 1,Trial begins,1575397999.1124659,71
+1,Fixation dot begins for trial 71 in block 1,Fixation dot,1575397999.112555,71
+1,Image onset for trial 71 in block 1,Image onset,1575398000.184892,71
+1,Adjust Task begins for trial 71 in block 1,Adjust task,1575398001.726858,71
+1,Adjust Task ends for trial 71 in block 1,,1575398006.677815,71
+1,Ending trial 71 in block 1,End trial,1575398006.6947079,71
+1,Begin for trial 72 in block 1,Trial begins,1575398006.695785,72
+1,Fixation dot begins for trial 72 in block 1,Fixation dot,1575398006.6959171,72
+1,Image onset for trial 72 in block 1,Image onset,1575398007.748422,72
+1,Adjust Task begins for trial 72 in block 1,Adjust task,1575398009.294645,72
+1,Adjust Task ends for trial 72 in block 1,,1575398009.9950988,72
+1,Ending trial 72 in block 1,End trial,1575398010.011791,72
+1,Begin for trial 73 in block 1,Trial begins,1575398010.013043,73
+1,Fixation dot begins for trial 73 in block 1,Fixation dot,1575398010.01317,73
+1,Image onset for trial 73 in block 1,Image onset,1575398011.014475,73
+1,Adjust Task begins for trial 73 in block 1,Adjust task,1575398012.777079,73
+1,Adjust Task ends for trial 73 in block 1,,1575398013.4781802,73
+1,Ending trial 73 in block 1,End trial,1575398013.495002,73
+1,Begin for trial 74 in block 1,Trial begins,1575398013.496126,74
+1,Fixation dot begins for trial 74 in block 1,Fixation dot,1575398013.496257,74
+1,Image onset for trial 74 in block 1,Image onset,1575398014.586593,74
+1,Adjust Task begins for trial 74 in block 1,Adjust task,1575398016.1611662,74
+1,Adjust Task ends for trial 74 in block 1,,1575398018.1617,74
+1,Ending trial 74 in block 1,End trial,1575398018.178785,74
+1,Begin for trial 75 in block 1,Trial begins,1575398018.179654,75
+1,Fixation dot begins for trial 75 in block 1,Fixation dot,1575398018.179753,75
+1,Image onset for trial 75 in block 1,Image onset,1575398019.465796,75
+1,Adjust Task begins for trial 75 in block 1,Adjust task,1575398021.078197,75
+1,Adjust Task ends for trial 75 in block 1,,1575398024.678242,75
+1,Ending trial 75 in block 1,End trial,1575398024.695429,75
+1,Begin for trial 76 in block 1,Trial begins,1575398024.69661,76
+1,Fixation dot begins for trial 76 in block 1,Fixation dot,1575398024.696903,76
+1,Image onset for trial 76 in block 1,Image onset,1575398026.0178869,76
+1,Adjust Task begins for trial 76 in block 1,Adjust task,1575398027.6312041,76
+1,Adjust Task ends for trial 76 in block 1,,1575398028.628173,76
+1,Ending trial 76 in block 1,End trial,1575398028.645486,76
+1,Begin for trial 77 in block 1,Trial begins,1575398028.6466482,77
+1,Fixation dot begins for trial 77 in block 1,Fixation dot,1575398028.6468391,77
+1,Image onset for trial 77 in block 1,Image onset,1575398030.739435,77
+1,Adjust Task begins for trial 77 in block 1,Adjust task,1575398032.3439202,77
+1,Adjust Task ends for trial 77 in block 1,,1575398035.12836,77
+1,Ending trial 77 in block 1,End trial,1575398035.145039,77
+1,Begin for trial 78 in block 1,Trial begins,1575398035.146056,78
+1,Fixation dot begins for trial 78 in block 1,Fixation dot,1575398035.146188,78
+1,Image onset for trial 78 in block 1,Image onset,1575398036.4141922,78
+1,Adjust Task begins for trial 78 in block 1,Adjust task,1575398037.961996,78
+1,Adjust Task ends for trial 78 in block 1,,1575398039.478518,78
+1,Ending trial 78 in block 1,End trial,1575398039.495191,78
+1,Begin for trial 79 in block 1,Trial begins,1575398039.4961028,79
+1,Fixation dot begins for trial 79 in block 1,Fixation dot,1575398039.496225,79
+1,Image onset for trial 79 in block 1,Image onset,1575398040.946569,79
+1,Adjust Task begins for trial 79 in block 1,Adjust task,1575398042.493941,79
+1,Adjust Task ends for trial 79 in block 1,,1575398046.561444,79
+1,Ending trial 79 in block 1,End trial,1575398046.5789702,79
+1,Begin for trial 80 in block 1,Trial begins,1575398046.5807638,80
+1,Fixation dot begins for trial 80 in block 1,Fixation dot,1575398046.581064,80
+1,Image onset for trial 80 in block 1,Image onset,1575398047.53998,80
+1,Adjust Task begins for trial 80 in block 1,Adjust task,1575398049.0954518,80
+1,Adjust Task ends for trial 80 in block 1,,1575398050.578846,80
+1,Ending trial 80 in block 1,End trial,1575398050.595574,80
+1,Begin for trial 81 in block 1,Trial begins,1575398050.596731,81
+1,Fixation dot begins for trial 81 in block 1,Fixation dot,1575398050.596858,81
+1,Image onset for trial 81 in block 1,Image onset,1575398052.159713,81
+1,Adjust Task begins for trial 81 in block 1,Adjust task,1575398053.710654,81
+1,Adjust Task ends for trial 81 in block 1,,1575398056.213299,81
+1,Ending trial 81 in block 1,End trial,1575398056.2287202,81
+1,Begin for trial 82 in block 1,Trial begins,1575398056.22991,82
+1,Fixation dot begins for trial 82 in block 1,Fixation dot,1575398056.2300649,82
+1,Image onset for trial 82 in block 1,Image onset,1575398057.1964831,82
+1,Adjust Task begins for trial 82 in block 1,Adjust task,1575398058.745058,82
+1,Adjust Task ends for trial 82 in block 1,,1575398060.213701,82
+1,Ending trial 82 in block 1,End trial,1575398060.229096,82
+1,Begin for trial 83 in block 1,Trial begins,1575398060.230051,83
+1,Fixation dot begins for trial 83 in block 1,Fixation dot,1575398060.230159,83
+1,Image onset for trial 83 in block 1,Image onset,1575398061.8982458,83
+1,Adjust Task begins for trial 83 in block 1,Adjust task,1575398063.461628,83
+1,Adjust Task ends for trial 83 in block 1,,1575398066.912179,83
+1,Ending trial 83 in block 1,End trial,1575398066.929434,83
+1,Begin for trial 84 in block 1,Trial begins,1575398066.930401,84
+1,Fixation dot begins for trial 84 in block 1,Fixation dot,1575398066.930486,84
+1,Image onset for trial 84 in block 1,Image onset,1575398068.011107,84
+1,Adjust Task begins for trial 84 in block 1,Adjust task,1575398069.562241,84
+1,Adjust Task ends for trial 84 in block 1,,1575398070.1793668,84
+1,Ending trial 84 in block 1,End trial,1575398070.195359,84
+1,Begin for trial 85 in block 1,Trial begins,1575398070.1964428,85
+1,Fixation dot begins for trial 85 in block 1,Fixation dot,1575398070.196527,85
+1,Image onset for trial 85 in block 1,Image onset,1575398071.844213,85
+1,Adjust Task begins for trial 85 in block 1,Adjust task,1575398073.378145,85
+1,Adjust Task ends for trial 85 in block 1,,1575398074.0796201,85
+1,Ending trial 85 in block 1,End trial,1575398074.095037,85
+1,Block 1 Ends,,1575398074.231633,
+2,Block 2 Begins,Block begins,1575398087.930578,
+2,Begin for trial 1 in block 2,Trial begins,1575398087.961746,1
+2,Fixation dot begins for trial 1 in block 2,Fixation dot,1575398087.9619079,1
+2,Image onset for trial 1 in block 2,Image onset,1575398089.169106,1
+2,Adjust Task begins for trial 1 in block 2,Adjust task,1575398090.812271,1
+2,Adjust Task ends for trial 1 in block 2,,1575398096.648776,1
+2,Ending trial 1 in block 2,End trial,1575398096.662702,1
+2,Begin for trial 2 in block 2,Trial begins,1575398096.663727,2
+2,Fixation dot begins for trial 2 in block 2,Fixation dot,1575398096.663886,2
+2,Image onset for trial 2 in block 2,Image onset,1575398097.467864,2
+2,Adjust Task begins for trial 2 in block 2,Adjust task,1575398099.046114,2
+2,Adjust Task ends for trial 2 in block 2,,1575398101.6790771,2
+2,Ending trial 2 in block 2,End trial,1575398101.696231,2
+2,Begin for trial 3 in block 2,Trial begins,1575398101.69721,3
+2,Fixation dot begins for trial 3 in block 2,Fixation dot,1575398101.697319,3
+2,Image onset for trial 3 in block 2,Image onset,1575398102.918587,3
+2,Adjust Task begins for trial 3 in block 2,Adjust task,1575398104.478982,3
+2,Adjust Task ends for trial 3 in block 2,,1575398105.14513,3
+2,Ending trial 3 in block 2,End trial,1575398105.164481,3
+2,Begin for trial 4 in block 2,Trial begins,1575398105.165907,4
+2,Fixation dot begins for trial 4 in block 2,Fixation dot,1575398105.1660411,4
+2,Image onset for trial 4 in block 2,Image onset,1575398107.3215082,4
+2,Adjust Task begins for trial 4 in block 2,Adjust task,1575398108.912385,4
+2,Adjust Task ends for trial 4 in block 2,,1575398111.0294452,4
+2,Ending trial 4 in block 2,End trial,1575398111.046926,4
+2,Begin for trial 5 in block 2,Trial begins,1575398111.0477881,5
+2,Fixation dot begins for trial 5 in block 2,Fixation dot,1575398111.047903,5
+2,Image onset for trial 5 in block 2,Image onset,1575398112.1300101,5
+2,Adjust Task begins for trial 5 in block 2,Adjust task,1575398113.695424,5
+2,Adjust Task ends for trial 5 in block 2,,1575398115.163376,5
+2,Ending trial 5 in block 2,End trial,1575398115.180223,5
+2,Begin for trial 6 in block 2,Trial begins,1575398115.181746,6
+2,Fixation dot begins for trial 6 in block 2,Fixation dot,1575398115.1819258,6
+2,Image onset for trial 6 in block 2,Image onset,1575398116.303724,6
+2,Adjust Task begins for trial 6 in block 2,Adjust task,1575398117.84631,6
+2,Adjust Task ends for trial 6 in block 2,,1575398121.230356,6
+2,Ending trial 6 in block 2,End trial,1575398121.250626,6
+2,Begin for trial 7 in block 2,Trial begins,1575398121.251559,7
+2,Fixation dot begins for trial 7 in block 2,Fixation dot,1575398121.2516952,7
+2,Image onset for trial 7 in block 2,Image onset,1575398122.612374,7
+2,Adjust Task begins for trial 7 in block 2,Adjust task,1575398124.1632268,7
+2,Adjust Task ends for trial 7 in block 2,,1575398126.3134851,7
+2,Ending trial 7 in block 2,End trial,1575398126.3305678,7
+2,Begin for trial 8 in block 2,Trial begins,1575398126.3317409,8
+2,Fixation dot begins for trial 8 in block 2,Fixation dot,1575398126.331875,8
+2,Image onset for trial 8 in block 2,Image onset,1575398127.495303,8
+2,Adjust Task begins for trial 8 in block 2,Adjust task,1575398129.045841,8
+2,Adjust Task ends for trial 8 in block 2,,1575398129.697152,8
+2,Ending trial 8 in block 2,End trial,1575398129.713032,8
+2,Begin for trial 9 in block 2,Trial begins,1575398129.7140229,9
+2,Fixation dot begins for trial 9 in block 2,Fixation dot,1575398129.714112,9
+2,Image onset for trial 9 in block 2,Image onset,1575398131.296104,9
+2,Adjust Task begins for trial 9 in block 2,Adjust task,1575398133.113662,9
+2,Adjust Task ends for trial 9 in block 2,,1575398135.212905,9
+2,Ending trial 9 in block 2,End trial,1575398135.2300858,9
+2,Begin for trial 10 in block 2,Trial begins,1575398135.2312808,10
+2,Fixation dot begins for trial 10 in block 2,Fixation dot,1575398135.231415,10
+2,Image onset for trial 10 in block 2,Image onset,1575398136.0529869,10
+2,Adjust Task begins for trial 10 in block 2,Adjust task,1575398137.598471,10
+2,Adjust Task ends for trial 10 in block 2,,1575398139.7833579,10
+2,Ending trial 10 in block 2,End trial,1575398139.796664,10
+2,Begin for trial 11 in block 2,Trial begins,1575398139.798072,11
+2,Fixation dot begins for trial 11 in block 2,Fixation dot,1575398139.798222,11
+2,Image onset for trial 11 in block 2,Image onset,1575398141.085978,11
+2,Adjust Task begins for trial 11 in block 2,Adjust task,1575398142.64718,11
+2,Adjust Task ends for trial 11 in block 2,,1575398144.700979,11
+2,Ending trial 11 in block 2,End trial,1575398144.713085,11
+2,Begin for trial 12 in block 2,Trial begins,1575398144.7138271,12
+2,Fixation dot begins for trial 12 in block 2,Fixation dot,1575398144.713952,12
+2,Image onset for trial 12 in block 2,Image onset,1575398145.612096,12
+2,Adjust Task begins for trial 12 in block 2,Adjust task,1575398147.163967,12
+2,Adjust Task ends for trial 12 in block 2,,1575398149.246714,12
+2,Ending trial 12 in block 2,End trial,1575398149.264746,12
+2,Begin for trial 13 in block 2,Trial begins,1575398149.265753,13
+2,Fixation dot begins for trial 13 in block 2,Fixation dot,1575398149.265908,13
+2,Image onset for trial 13 in block 2,Image onset,1575398150.736282,13
+2,Adjust Task begins for trial 13 in block 2,Adjust task,1575398152.2806542,13
+2,Adjust Task ends for trial 13 in block 2,,1575398153.3311281,13
+2,Ending trial 13 in block 2,End trial,1575398153.3475351,13
+2,Begin for trial 14 in block 2,Trial begins,1575398153.348583,14
+2,Fixation dot begins for trial 14 in block 2,Fixation dot,1575398153.348767,14
+2,Image onset for trial 14 in block 2,Image onset,1575398154.4603782,14
+2,Adjust Task begins for trial 14 in block 2,Adjust task,1575398155.99615,14
+2,Adjust Task ends for trial 14 in block 2,,1575398163.197686,14
+2,Ending trial 14 in block 2,End trial,1575398163.215184,14
+2,Begin for trial 15 in block 2,Trial begins,1575398163.216393,15
+2,Fixation dot begins for trial 15 in block 2,Fixation dot,1575398163.216598,15
+2,Image onset for trial 15 in block 2,Image onset,1575398164.527883,15
+2,Adjust Task begins for trial 15 in block 2,Adjust task,1575398166.082506,15
+2,Adjust Task ends for trial 15 in block 2,,1575398166.780701,15
+2,Ending trial 15 in block 2,End trial,1575398166.798584,15
+2,Begin for trial 16 in block 2,Trial begins,1575398166.799479,16
+2,Fixation dot begins for trial 16 in block 2,Fixation dot,1575398166.7995489,16
+2,Image onset for trial 16 in block 2,Image onset,1575398168.0063381,16
+2,Adjust Task begins for trial 16 in block 2,Adjust task,1575398169.562995,16
+2,Adjust Task ends for trial 16 in block 2,,1575398172.129659,16
+2,Ending trial 16 in block 2,End trial,1575398172.1471539,16
+2,Begin for trial 17 in block 2,Trial begins,1575398172.148926,17
+2,Fixation dot begins for trial 17 in block 2,Fixation dot,1575398172.1490781,17
+2,Image onset for trial 17 in block 2,Image onset,1575398173.158654,17
+2,Adjust Task begins for trial 17 in block 2,Adjust task,1575398174.682324,17
+2,Adjust Task ends for trial 17 in block 2,,1575398175.847399,17
+2,Ending trial 17 in block 2,End trial,1575398175.8640041,17
+2,Begin for trial 18 in block 2,Trial begins,1575398175.865292,18
+2,Fixation dot begins for trial 18 in block 2,Fixation dot,1575398175.865539,18
+2,Image onset for trial 18 in block 2,Image onset,1575398176.951255,18
+2,Adjust Task begins for trial 18 in block 2,Adjust task,1575398178.5298078,18
+2,Adjust Task ends for trial 18 in block 2,,1575398182.364635,18
+2,Ending trial 18 in block 2,End trial,1575398182.380646,18
+2,Begin for trial 19 in block 2,Trial begins,1575398182.3816278,19
+2,Fixation dot begins for trial 19 in block 2,Fixation dot,1575398182.381715,19
+2,Image onset for trial 19 in block 2,Image onset,1575398183.835267,19
+2,Adjust Task begins for trial 19 in block 2,Adjust task,1575398185.3799932,19
+2,Adjust Task ends for trial 19 in block 2,,1575398185.997777,19
+2,Ending trial 19 in block 2,End trial,1575398186.0134149,19
+2,Begin for trial 20 in block 2,Trial begins,1575398186.014295,20
+2,Fixation dot begins for trial 20 in block 2,Fixation dot,1575398186.014365,20
+2,Image onset for trial 20 in block 2,Image onset,1575398186.872648,20
+2,Adjust Task begins for trial 20 in block 2,Adjust task,1575398188.4145632,20
+2,Adjust Task ends for trial 20 in block 2,,1575398189.081391,20
+2,Ending trial 20 in block 2,End trial,1575398189.097693,20
+2,Begin for trial 21 in block 2,Trial begins,1575398189.0988538,21
+2,Fixation dot begins for trial 21 in block 2,Fixation dot,1575398189.099104,21
+2,Image onset for trial 21 in block 2,Image onset,1575398190.512766,21
+2,Adjust Task begins for trial 21 in block 2,Adjust task,1575398192.2810712,21
+2,Adjust Task ends for trial 21 in block 2,,1575398192.997858,21
+2,Ending trial 21 in block 2,End trial,1575398193.0140312,21
+2,Begin for trial 22 in block 2,Trial begins,1575398193.015043,22
+2,Fixation dot begins for trial 22 in block 2,Fixation dot,1575398193.015174,22
+2,Image onset for trial 22 in block 2,Image onset,1575398193.864589,22
+2,Adjust Task begins for trial 22 in block 2,Adjust task,1575398195.41436,22
+2,Adjust Task ends for trial 22 in block 2,,1575398196.830487,22
+2,Ending trial 22 in block 2,End trial,1575398196.8503869,22
+2,Begin for trial 23 in block 2,Trial begins,1575398196.851264,23
+2,Fixation dot begins for trial 23 in block 2,Fixation dot,1575398196.8513842,23
+2,Image onset for trial 23 in block 2,Image onset,1575398197.450557,23
+2,Adjust Task begins for trial 23 in block 2,Adjust task,1575398198.980625,23
+2,Adjust Task ends for trial 23 in block 2,,1575398199.8136299,23
+2,Ending trial 23 in block 2,End trial,1575398199.8329878,23
+2,Begin for trial 24 in block 2,Trial begins,1575398199.8340008,24
+2,Fixation dot begins for trial 24 in block 2,Fixation dot,1575398199.8341398,24
+2,Image onset for trial 24 in block 2,Image onset,1575398200.602738,24
+2,Adjust Task begins for trial 24 in block 2,Adjust task,1575398202.148243,24
+2,Adjust Task ends for trial 24 in block 2,,1575398202.785283,24
+2,Ending trial 24 in block 2,End trial,1575398202.797621,24
+2,Begin for trial 25 in block 2,Trial begins,1575398202.798539,25
+2,Fixation dot begins for trial 25 in block 2,Fixation dot,1575398202.798656,25
+2,Image onset for trial 25 in block 2,Image onset,1575398203.662951,25
+2,Adjust Task begins for trial 25 in block 2,Adjust task,1575398205.214897,25
+2,Adjust Task ends for trial 25 in block 2,,1575398207.081312,25
+2,Ending trial 25 in block 2,End trial,1575398207.101554,25
+2,Begin for trial 26 in block 2,Trial begins,1575398207.1029341,26
+2,Fixation dot begins for trial 26 in block 2,Fixation dot,1575398207.1031702,26
+2,Image onset for trial 26 in block 2,Image onset,1575398208.473691,26
+2,Adjust Task begins for trial 26 in block 2,Adjust task,1575398210.048015,26
+2,Adjust Task ends for trial 26 in block 2,,1575398212.432147,26
+2,Ending trial 26 in block 2,End trial,1575398212.448332,26
+2,Begin for trial 27 in block 2,Trial begins,1575398212.449389,27
+2,Fixation dot begins for trial 27 in block 2,Fixation dot,1575398212.449526,27
+2,Image onset for trial 27 in block 2,Image onset,1575398214.074152,27
+2,Adjust Task begins for trial 27 in block 2,Adjust task,1575398215.663286,27
+2,Adjust Task ends for trial 27 in block 2,,1575398216.264447,27
+2,Ending trial 27 in block 2,End trial,1575398216.284812,27
+2,Begin for trial 28 in block 2,Trial begins,1575398216.2860641,28
+2,Fixation dot begins for trial 28 in block 2,Fixation dot,1575398216.286291,28
+2,Image onset for trial 28 in block 2,Image onset,1575398217.424698,28
+2,Adjust Task begins for trial 28 in block 2,Adjust task,1575398218.964427,28
+2,Adjust Task ends for trial 28 in block 2,,1575398219.58146,28
+2,Ending trial 28 in block 2,End trial,1575398219.601332,28
+2,Begin for trial 29 in block 2,Trial begins,1575398219.602533,29
+2,Fixation dot begins for trial 29 in block 2,Fixation dot,1575398219.6026251,29
+2,Image onset for trial 29 in block 2,Image onset,1575398220.615189,29
+2,Adjust Task begins for trial 29 in block 2,Adjust task,1575398222.165198,29
+2,Adjust Task ends for trial 29 in block 2,,1575398223.832117,29
+2,Ending trial 29 in block 2,End trial,1575398223.848466,29
+2,Begin for trial 30 in block 2,Trial begins,1575398223.8494961,30
+2,Fixation dot begins for trial 30 in block 2,Fixation dot,1575398223.84957,30
+2,Image onset for trial 30 in block 2,Image onset,1575398225.0171719,30
+2,Adjust Task begins for trial 30 in block 2,Adjust task,1575398226.58195,30
+2,Adjust Task ends for trial 30 in block 2,,1575398229.798881,30
+2,Ending trial 30 in block 2,End trial,1575398229.8151438,30
+2,Begin for trial 31 in block 2,Trial begins,1575398229.815938,31
+2,Fixation dot begins for trial 31 in block 2,Fixation dot,1575398229.8160262,31
+2,Image onset for trial 31 in block 2,Image onset,1575398230.7258492,31
+2,Adjust Task begins for trial 31 in block 2,Adjust task,1575398232.265045,31
+2,Adjust Task ends for trial 31 in block 2,,1575398232.897896,31
+2,Ending trial 31 in block 2,End trial,1575398232.915092,31
+2,Begin for trial 32 in block 2,Trial begins,1575398232.9161339,32
+2,Fixation dot begins for trial 32 in block 2,Fixation dot,1575398232.9162161,32
+2,Image onset for trial 32 in block 2,Image onset,1575398234.124085,32
+2,Adjust Task begins for trial 32 in block 2,Adjust task,1575398235.66482,32
+2,Adjust Task ends for trial 32 in block 2,,1575398236.231689,32
+2,Ending trial 32 in block 2,End trial,1575398236.247937,32
+2,Begin for trial 33 in block 2,Trial begins,1575398236.248812,33
+2,Fixation dot begins for trial 33 in block 2,Fixation dot,1575398236.2489321,33
+2,Image onset for trial 33 in block 2,Image onset,1575398237.047754,33
+2,Adjust Task begins for trial 33 in block 2,Adjust task,1575398238.581568,33
+2,Adjust Task ends for trial 33 in block 2,,1575398240.0806882,33
+2,Ending trial 33 in block 2,End trial,1575398240.098542,33
+2,Begin for trial 34 in block 2,Trial begins,1575398240.0995488,34
+2,Fixation dot begins for trial 34 in block 2,Fixation dot,1575398240.099638,34
+2,Image onset for trial 34 in block 2,Image onset,1575398241.418499,34
+2,Adjust Task begins for trial 34 in block 2,Adjust task,1575398242.998731,34
+2,Adjust Task ends for trial 34 in block 2,,1575398244.6146472,34
+2,Ending trial 34 in block 2,End trial,1575398244.6323872,34
+2,Begin for trial 35 in block 2,Trial begins,1575398244.633281,35
+2,Fixation dot begins for trial 35 in block 2,Fixation dot,1575398244.633395,35
+2,Image onset for trial 35 in block 2,Image onset,1575398245.3590488,35
+2,Adjust Task begins for trial 35 in block 2,Adjust task,1575398246.898418,35
+2,Adjust Task ends for trial 35 in block 2,,1575398260.7816699,35
+2,Ending trial 35 in block 2,End trial,1575398260.799689,35
+2,Begin for trial 36 in block 2,Trial begins,1575398260.800815,36
+2,Fixation dot begins for trial 36 in block 2,Fixation dot,1575398260.8009841,36
+2,Image onset for trial 36 in block 2,Image onset,1575398261.815627,36
+2,Adjust Task begins for trial 36 in block 2,Adjust task,1575398263.3827431,36
+2,Adjust Task ends for trial 36 in block 2,,1575398265.01524,36
+2,Ending trial 36 in block 2,End trial,1575398265.033101,36
+2,Begin for trial 37 in block 2,Trial begins,1575398265.033974,37
+2,Fixation dot begins for trial 37 in block 2,Fixation dot,1575398265.034087,37
+2,Image onset for trial 37 in block 2,Image onset,1575398265.861115,37
+2,Adjust Task begins for trial 37 in block 2,Adjust task,1575398267.414827,37
+2,Adjust Task ends for trial 37 in block 2,,1575398270.765982,37
+2,Ending trial 37 in block 2,End trial,1575398270.78237,37
+2,Begin for trial 38 in block 2,Trial begins,1575398270.783746,38
+2,Fixation dot begins for trial 38 in block 2,Fixation dot,1575398270.78389,38
+2,Image onset for trial 38 in block 2,Image onset,1575398272.06019,38
+2,Adjust Task begins for trial 38 in block 2,Adjust task,1575398273.632319,38
+2,Adjust Task ends for trial 38 in block 2,,1575398275.54923,38
+2,Ending trial 38 in block 2,End trial,1575398275.566686,38
+2,Begin for trial 39 in block 2,Trial begins,1575398275.568116,39
+2,Fixation dot begins for trial 39 in block 2,Fixation dot,1575398275.5682619,39
+2,Image onset for trial 39 in block 2,Image onset,1575398277.181771,39
+2,Adjust Task begins for trial 39 in block 2,Adjust task,1575398278.75008,39
+2,Adjust Task ends for trial 39 in block 2,,1575398279.314919,39
+2,Ending trial 39 in block 2,End trial,1575398279.3327308,39
+2,Begin for trial 40 in block 2,Trial begins,1575398279.3337579,40
+2,Fixation dot begins for trial 40 in block 2,Fixation dot,1575398279.333846,40
+2,Image onset for trial 40 in block 2,Image onset,1575398280.656676,40
+2,Adjust Task begins for trial 40 in block 2,Adjust task,1575398282.199291,40
+2,Adjust Task ends for trial 40 in block 2,,1575398284.299305,40
+2,Ending trial 40 in block 2,End trial,1575398284.3166919,40
+2,Begin for trial 41 in block 2,Trial begins,1575398284.317562,41
+2,Fixation dot begins for trial 41 in block 2,Fixation dot,1575398284.3176892,41
+2,Image onset for trial 41 in block 2,Image onset,1575398285.2643058,41
+2,Adjust Task begins for trial 41 in block 2,Adjust task,1575398286.815273,41
+2,Adjust Task ends for trial 41 in block 2,,1575398289.2819998,41
+2,Ending trial 41 in block 2,End trial,1575398289.299766,41
+2,Begin for trial 42 in block 2,Trial begins,1575398289.300847,42
+2,Fixation dot begins for trial 42 in block 2,Fixation dot,1575398289.300926,42
+2,Image onset for trial 42 in block 2,Image onset,1575398290.8680289,42
+2,Adjust Task begins for trial 42 in block 2,Adjust task,1575398292.416536,42
+2,Adjust Task ends for trial 42 in block 2,,1575398293.715046,42
+2,Ending trial 42 in block 2,End trial,1575398293.733252,42
+2,Begin for trial 43 in block 2,Trial begins,1575398293.734391,43
+2,Fixation dot begins for trial 43 in block 2,Fixation dot,1575398293.734538,43
+2,Image onset for trial 43 in block 2,Image onset,1575398295.225228,43
+2,Adjust Task begins for trial 43 in block 2,Adjust task,1575398296.7994392,43
+2,Adjust Task ends for trial 43 in block 2,,1575398298.649544,43
+2,Ending trial 43 in block 2,End trial,1575398298.6665611,43
+2,Begin for trial 44 in block 2,Trial begins,1575398298.667706,44
+2,Fixation dot begins for trial 44 in block 2,Fixation dot,1575398298.6678872,44
+2,Image onset for trial 44 in block 2,Image onset,1575398299.6814778,44
+2,Adjust Task begins for trial 44 in block 2,Adjust task,1575398301.248385,44
+2,Adjust Task ends for trial 44 in block 2,,1575398301.865912,44
+2,Ending trial 44 in block 2,End trial,1575398301.8827362,44
+2,Begin for trial 45 in block 2,Trial begins,1575398301.917959,45
+2,Fixation dot begins for trial 45 in block 2,Fixation dot,1575398301.9182038,45
+2,Image onset for trial 45 in block 2,Image onset,1575398303.171615,45
+2,Adjust Task begins for trial 45 in block 2,Adjust task,1575398304.715877,45
+2,Adjust Task ends for trial 45 in block 2,,1575398308.099041,45
+2,Ending trial 45 in block 2,End trial,1575398308.116838,45
+2,Begin for trial 46 in block 2,Trial begins,1575398308.117986,46
+2,Fixation dot begins for trial 46 in block 2,Fixation dot,1575398308.118111,46
+2,Image onset for trial 46 in block 2,Image onset,1575398309.977822,46
+2,Adjust Task begins for trial 46 in block 2,Adjust task,1575398311.5663638,46
+2,Adjust Task ends for trial 46 in block 2,,1575398313.9995542,46
+2,Ending trial 46 in block 2,End trial,1575398314.016265,46
+2,Begin for trial 47 in block 2,Trial begins,1575398314.0173912,47
+2,Fixation dot begins for trial 47 in block 2,Fixation dot,1575398314.017513,47
+2,Image onset for trial 47 in block 2,Image onset,1575398315.1292028,47
+2,Adjust Task begins for trial 47 in block 2,Adjust task,1575398316.682058,47
+2,Adjust Task ends for trial 47 in block 2,,1575398317.249673,47
+2,Ending trial 47 in block 2,End trial,1575398317.267422,47
+2,Begin for trial 48 in block 2,Trial begins,1575398317.268951,48
+2,Fixation dot begins for trial 48 in block 2,Fixation dot,1575398317.269147,48
+2,Image onset for trial 48 in block 2,Image onset,1575398318.482075,48
+2,Adjust Task begins for trial 48 in block 2,Adjust task,1575398320.032044,48
+2,Adjust Task ends for trial 48 in block 2,,1575398324.466901,48
+2,Ending trial 48 in block 2,End trial,1575398324.483563,48
+2,Begin for trial 49 in block 2,Trial begins,1575398324.4846668,49
+2,Fixation dot begins for trial 49 in block 2,Fixation dot,1575398324.4848158,49
+2,Image onset for trial 49 in block 2,Image onset,1575398326.288067,49
+2,Adjust Task begins for trial 49 in block 2,Adjust task,1575398327.85092,49
+2,Adjust Task ends for trial 49 in block 2,,1575398329.283011,49
+2,Ending trial 49 in block 2,End trial,1575398329.300799,49
+2,Begin for trial 50 in block 2,Trial begins,1575398329.301894,50
+2,Fixation dot begins for trial 50 in block 2,Fixation dot,1575398329.3020291,50
+2,Image onset for trial 50 in block 2,Image onset,1575398330.3109179,50
+2,Adjust Task begins for trial 50 in block 2,Adjust task,1575398331.84922,50
+2,Adjust Task ends for trial 50 in block 2,,1575398332.432968,50
+2,Ending trial 50 in block 2,End trial,1575398332.4503272,50
+2,Begin for trial 51 in block 2,Trial begins,1575398332.4513779,51
+2,Fixation dot begins for trial 51 in block 2,Fixation dot,1575398332.45161,51
+2,Image onset for trial 51 in block 2,Image onset,1575398333.3647768,51
+2,Adjust Task begins for trial 51 in block 2,Adjust task,1575398334.916203,51
+2,Adjust Task ends for trial 51 in block 2,,1575398335.466135,51
+2,Ending trial 51 in block 2,End trial,1575398335.4854422,51
+2,Begin for trial 52 in block 2,Trial begins,1575398335.486845,52
+2,Fixation dot begins for trial 52 in block 2,Fixation dot,1575398335.487069,52
+2,Image onset for trial 52 in block 2,Image onset,1575398336.426913,52
+2,Adjust Task begins for trial 52 in block 2,Adjust task,1575398337.98311,52
+2,Adjust Task ends for trial 52 in block 2,,1575398338.5363278,52
+2,Ending trial 52 in block 2,End trial,1575398338.550078,52
+2,Begin for trial 53 in block 2,Trial begins,1575398338.551321,53
+2,Fixation dot begins for trial 53 in block 2,Fixation dot,1575398338.5514739,53
+2,Image onset for trial 53 in block 2,Image onset,1575398339.438439,53
+2,Adjust Task begins for trial 53 in block 2,Adjust task,1575398341.017162,53
+2,Adjust Task ends for trial 53 in block 2,,1575398343.066036,53
+2,Ending trial 53 in block 2,End trial,1575398343.083721,53
+2,Begin for trial 54 in block 2,Trial begins,1575398343.0849311,54
+2,Fixation dot begins for trial 54 in block 2,Fixation dot,1575398343.0851672,54
+2,Image onset for trial 54 in block 2,Image onset,1575398344.04054,54
+2,Adjust Task begins for trial 54 in block 2,Adjust task,1575398345.601724,54
+2,Adjust Task ends for trial 54 in block 2,,1575398348.133311,54
+2,Ending trial 54 in block 2,End trial,1575398348.151973,54
+2,Begin for trial 55 in block 2,Trial begins,1575398348.1531,55
+2,Fixation dot begins for trial 55 in block 2,Fixation dot,1575398348.153313,55
+2,Image onset for trial 55 in block 2,Image onset,1575398349.190006,55
+2,Adjust Task begins for trial 55 in block 2,Adjust task,1575398350.786486,55
+2,Adjust Task ends for trial 55 in block 2,,1575398352.867637,55
+2,Ending trial 55 in block 2,End trial,1575398352.884112,55
+2,Begin for trial 56 in block 2,Trial begins,1575398352.885451,56
+2,Fixation dot begins for trial 56 in block 2,Fixation dot,1575398352.885671,56
+2,Image onset for trial 56 in block 2,Image onset,1575398354.439092,56
+2,Adjust Task begins for trial 56 in block 2,Adjust task,1575398355.999816,56
+2,Adjust Task ends for trial 56 in block 2,,1575398357.666568,56
+2,Ending trial 56 in block 2,End trial,1575398357.684173,56
+2,Begin for trial 57 in block 2,Trial begins,1575398357.6853042,57
+2,Fixation dot begins for trial 57 in block 2,Fixation dot,1575398357.6854331,57
+2,Image onset for trial 57 in block 2,Image onset,1575398358.691513,57
+2,Adjust Task begins for trial 57 in block 2,Adjust task,1575398360.25052,57
+2,Adjust Task ends for trial 57 in block 2,,1575398361.4501219,57
+2,Ending trial 57 in block 2,End trial,1575398361.467784,57
+2,Begin for trial 58 in block 2,Trial begins,1575398361.4689229,58
+2,Fixation dot begins for trial 58 in block 2,Fixation dot,1575398361.4690921,58
+2,Image onset for trial 58 in block 2,Image onset,1575398362.657238,58
+2,Adjust Task begins for trial 58 in block 2,Adjust task,1575398364.217301,58
+2,Adjust Task ends for trial 58 in block 2,,1575398365.783974,58
+2,Ending trial 58 in block 2,End trial,1575398365.8006122,58
+2,Begin for trial 59 in block 2,Trial begins,1575398365.8017778,59
+2,Fixation dot begins for trial 59 in block 2,Fixation dot,1575398365.801876,59
+2,Image onset for trial 59 in block 2,Image onset,1575398367.109853,59
+2,Adjust Task begins for trial 59 in block 2,Adjust task,1575398368.66626,59
+2,Adjust Task ends for trial 59 in block 2,,1575398369.3341298,59
+2,Ending trial 59 in block 2,End trial,1575398369.3509278,59
+2,Begin for trial 60 in block 2,Trial begins,1575398369.351847,60
+2,Fixation dot begins for trial 60 in block 2,Fixation dot,1575398369.3519418,60
+2,Image onset for trial 60 in block 2,Image onset,1575398370.419672,60
+2,Adjust Task begins for trial 60 in block 2,Adjust task,1575398371.983822,60
+2,Adjust Task ends for trial 60 in block 2,,1575398373.733456,60
+2,Ending trial 60 in block 2,End trial,1575398373.7505972,60
+2,Begin for trial 61 in block 2,Trial begins,1575398373.751704,61
+2,Fixation dot begins for trial 61 in block 2,Fixation dot,1575398373.7518349,61
+2,Image onset for trial 61 in block 2,Image onset,1575398374.574692,61
+2,Adjust Task begins for trial 61 in block 2,Adjust task,1575398376.11638,61
+2,Adjust Task ends for trial 61 in block 2,,1575398376.683646,61
+2,Ending trial 61 in block 2,End trial,1575398376.7030861,61
+2,Begin for trial 62 in block 2,Trial begins,1575398376.704275,62
+2,Fixation dot begins for trial 62 in block 2,Fixation dot,1575398376.704373,62
+2,Image onset for trial 62 in block 2,Image onset,1575398377.4639812,62
+2,Adjust Task begins for trial 62 in block 2,Adjust task,1575398379.019283,62
+2,Adjust Task ends for trial 62 in block 2,,1575398382.55023,62
+2,Ending trial 62 in block 2,End trial,1575398382.568343,62
+2,Begin for trial 63 in block 2,Trial begins,1575398382.5692701,63
+2,Fixation dot begins for trial 63 in block 2,Fixation dot,1575398382.5693922,63
+2,Image onset for trial 63 in block 2,Image onset,1575398383.4169998,63
+2,Adjust Task begins for trial 63 in block 2,Adjust task,1575398384.9518359,63
+2,Adjust Task ends for trial 63 in block 2,,1575398387.9005198,63
+2,Ending trial 63 in block 2,End trial,1575398387.917654,63
+2,Begin for trial 64 in block 2,Trial begins,1575398387.918976,64
+2,Fixation dot begins for trial 64 in block 2,Fixation dot,1575398387.9191449,64
+2,Image onset for trial 64 in block 2,Image onset,1575398389.0347142,64
+2,Adjust Task begins for trial 64 in block 2,Adjust task,1575398390.567874,64
+2,Adjust Task ends for trial 64 in block 2,,1575398392.217559,64
+2,Ending trial 64 in block 2,End trial,1575398392.2347982,64
+2,Begin for trial 65 in block 2,Trial begins,1575398392.2359092,65
+2,Fixation dot begins for trial 65 in block 2,Fixation dot,1575398392.236094,65
+2,Image onset for trial 65 in block 2,Image onset,1575398393.3859231,65
+2,Adjust Task begins for trial 65 in block 2,Adjust task,1575398394.9337358,65
+2,Adjust Task ends for trial 65 in block 2,,1575398395.43468,65
+2,Ending trial 65 in block 2,End trial,1575398395.451196,65
+2,Begin for trial 66 in block 2,Trial begins,1575398395.452141,66
+2,Fixation dot begins for trial 66 in block 2,Fixation dot,1575398395.452278,66
+2,Image onset for trial 66 in block 2,Image onset,1575398396.6301792,66
+2,Adjust Task begins for trial 66 in block 2,Adjust task,1575398398.1836858,66
+2,Adjust Task ends for trial 66 in block 2,,1575398400.3342562,66
+2,Ending trial 66 in block 2,End trial,1575398400.351328,66
+2,Begin for trial 67 in block 2,Trial begins,1575398400.35234,67
+2,Fixation dot begins for trial 67 in block 2,Fixation dot,1575398400.352483,67
+2,Image onset for trial 67 in block 2,Image onset,1575398401.506755,67
+2,Adjust Task begins for trial 67 in block 2,Adjust task,1575398403.050873,67
+2,Adjust Task ends for trial 67 in block 2,,1575398404.7338681,67
+2,Ending trial 67 in block 2,End trial,1575398404.7511392,67
+2,Begin for trial 68 in block 2,Trial begins,1575398404.75213,68
+2,Fixation dot begins for trial 68 in block 2,Fixation dot,1575398404.752218,68
+2,Image onset for trial 68 in block 2,Image onset,1575398405.519202,68
+2,Adjust Task begins for trial 68 in block 2,Adjust task,1575398407.084091,68
+2,Adjust Task ends for trial 68 in block 2,,1575398408.450479,68
+2,Ending trial 68 in block 2,End trial,1575398408.468599,68
+2,Begin for trial 69 in block 2,Trial begins,1575398408.469414,69
+2,Fixation dot begins for trial 69 in block 2,Fixation dot,1575398408.469504,69
+2,Image onset for trial 69 in block 2,Image onset,1575398409.613188,69
+2,Adjust Task begins for trial 69 in block 2,Adjust task,1575398411.167736,69
+2,Adjust Task ends for trial 69 in block 2,,1575398411.684038,69
+2,Ending trial 69 in block 2,End trial,1575398411.7017238,69
+2,Begin for trial 70 in block 2,Trial begins,1575398411.702765,70
+2,Fixation dot begins for trial 70 in block 2,Fixation dot,1575398411.702847,70
+2,Image onset for trial 70 in block 2,Image onset,1575398412.6081789,70
+2,Adjust Task begins for trial 70 in block 2,Adjust task,1575398414.1512089,70
+2,Adjust Task ends for trial 70 in block 2,,1575398415.569056,70
+2,Ending trial 70 in block 2,End trial,1575398415.5846589,70
+2,Begin for trial 71 in block 2,Trial begins,1575398415.585679,71
+2,Fixation dot begins for trial 71 in block 2,Fixation dot,1575398415.585757,71
+2,Image onset for trial 71 in block 2,Image onset,1575398417.032058,71
+2,Adjust Task begins for trial 71 in block 2,Adjust task,1575398418.601629,71
+2,Adjust Task ends for trial 71 in block 2,,1575398419.551167,71
+2,Ending trial 71 in block 2,End trial,1575398419.568388,71
+2,Begin for trial 72 in block 2,Trial begins,1575398419.569529,72
+2,Fixation dot begins for trial 72 in block 2,Fixation dot,1575398419.5697181,72
+2,Image onset for trial 72 in block 2,Image onset,1575398420.7886798,72
+2,Adjust Task begins for trial 72 in block 2,Adjust task,1575398422.350771,72
+2,Adjust Task ends for trial 72 in block 2,,1575398424.0338,72
+2,Ending trial 72 in block 2,End trial,1575398424.051928,72
+2,Begin for trial 73 in block 2,Trial begins,1575398424.053062,73
+2,Fixation dot begins for trial 73 in block 2,Fixation dot,1575398424.053288,73
+2,Image onset for trial 73 in block 2,Image onset,1575398425.1954072,73
+2,Adjust Task begins for trial 73 in block 2,Adjust task,1575398426.734677,73
+2,Adjust Task ends for trial 73 in block 2,,1575398428.168256,73
+2,Ending trial 73 in block 2,End trial,1575398428.185323,73
+2,Begin for trial 74 in block 2,Trial begins,1575398428.186343,74
+2,Fixation dot begins for trial 74 in block 2,Fixation dot,1575398428.186489,74
+2,Image onset for trial 74 in block 2,Image onset,1575398429.7980301,74
+2,Adjust Task begins for trial 74 in block 2,Adjust task,1575398431.369161,74
+2,Adjust Task ends for trial 74 in block 2,,1575398434.252115,74
+2,Ending trial 74 in block 2,End trial,1575398434.268544,74
+2,Begin for trial 75 in block 2,Trial begins,1575398434.2698472,75
+2,Fixation dot begins for trial 75 in block 2,Fixation dot,1575398434.269939,75
+2,Image onset for trial 75 in block 2,Image onset,1575398435.219841,75
+2,Adjust Task begins for trial 75 in block 2,Adjust task,1575398436.7699788,75
+2,Adjust Task ends for trial 75 in block 2,,1575398437.333933,75
+2,Ending trial 75 in block 2,End trial,1575398437.35198,75
+2,Begin for trial 76 in block 2,Trial begins,1575398437.3530009,76
+2,Fixation dot begins for trial 76 in block 2,Fixation dot,1575398437.3531451,76
+2,Image onset for trial 76 in block 2,Image onset,1575398438.244608,76
+2,Adjust Task begins for trial 76 in block 2,Adjust task,1575398439.8008661,76
+2,Adjust Task ends for trial 76 in block 2,,1575398441.400702,76
+2,Ending trial 76 in block 2,End trial,1575398441.418706,76
+2,Begin for trial 77 in block 2,Trial begins,1575398441.41957,77
+2,Fixation dot begins for trial 77 in block 2,Fixation dot,1575398441.419706,77
+2,Image onset for trial 77 in block 2,Image onset,1575398442.443487,77
+2,Adjust Task begins for trial 77 in block 2,Adjust task,1575398443.984523,77
+2,Adjust Task ends for trial 77 in block 2,,1575398445.8011122,77
+2,Ending trial 77 in block 2,End trial,1575398445.818974,77
+2,Begin for trial 78 in block 2,Trial begins,1575398445.8200471,78
+2,Fixation dot begins for trial 78 in block 2,Fixation dot,1575398445.820229,78
+2,Image onset for trial 78 in block 2,Image onset,1575398447.492873,78
+2,Adjust Task begins for trial 78 in block 2,Adjust task,1575398449.067631,78
+2,Adjust Task ends for trial 78 in block 2,,1575398450.8192372,78
+2,Ending trial 78 in block 2,End trial,1575398450.835194,78
+2,Begin for trial 79 in block 2,Trial begins,1575398450.836122,79
+2,Fixation dot begins for trial 79 in block 2,Fixation dot,1575398450.836242,79
+2,Image onset for trial 79 in block 2,Image onset,1575398452.114273,79
+2,Adjust Task begins for trial 79 in block 2,Adjust task,1575398453.668472,79
+2,Adjust Task ends for trial 79 in block 2,,1575398455.435511,79
+2,Ending trial 79 in block 2,End trial,1575398455.4518778,79
+2,Begin for trial 80 in block 2,Trial begins,1575398455.453254,80
+2,Fixation dot begins for trial 80 in block 2,Fixation dot,1575398455.4534678,80
+2,Image onset for trial 80 in block 2,Image onset,1575398456.6541839,80
+2,Adjust Task begins for trial 80 in block 2,Adjust task,1575398458.202751,80
+2,Adjust Task ends for trial 80 in block 2,,1575398459.920208,80
+2,Ending trial 80 in block 2,End trial,1575398459.935636,80
+2,Begin for trial 81 in block 2,Trial begins,1575398459.936713,81
+2,Fixation dot begins for trial 81 in block 2,Fixation dot,1575398459.936806,81
+2,Image onset for trial 81 in block 2,Image onset,1575398461.161727,81
+2,Adjust Task begins for trial 81 in block 2,Adjust task,1575398462.718395,81
+2,Adjust Task ends for trial 81 in block 2,,1575398468.068655,81
+2,Ending trial 81 in block 2,End trial,1575398468.088493,81
+2,Begin for trial 82 in block 2,Trial begins,1575398468.089943,82
+2,Fixation dot begins for trial 82 in block 2,Fixation dot,1575398468.090143,82
+2,Image onset for trial 82 in block 2,Image onset,1575398469.537838,82
+2,Adjust Task begins for trial 82 in block 2,Adjust task,1575398471.087096,82
+2,Adjust Task ends for trial 82 in block 2,,1575398471.684934,82
+2,Ending trial 82 in block 2,End trial,1575398471.7024782,82
+2,Begin for trial 83 in block 2,Trial begins,1575398471.703446,83
+2,Fixation dot begins for trial 83 in block 2,Fixation dot,1575398471.7035892,83
+2,Image onset for trial 83 in block 2,Image onset,1575398472.8989792,83
+2,Adjust Task begins for trial 83 in block 2,Adjust task,1575398474.451808,83
+2,Adjust Task ends for trial 83 in block 2,,1575398474.902838,83
+2,Ending trial 83 in block 2,End trial,1575398474.9187698,83
+2,Begin for trial 84 in block 2,Trial begins,1575398474.9196181,84
+2,Fixation dot begins for trial 84 in block 2,Fixation dot,1575398474.9197922,84
+2,Image onset for trial 84 in block 2,Image onset,1575398476.038466,84
+2,Adjust Task begins for trial 84 in block 2,Adjust task,1575398477.601804,84
+2,Adjust Task ends for trial 84 in block 2,,1575398479.769709,84
+2,Ending trial 84 in block 2,End trial,1575398479.786261,84
+2,Begin for trial 85 in block 2,Trial begins,1575398479.787328,85
+2,Fixation dot begins for trial 85 in block 2,Fixation dot,1575398479.787454,85
+2,Image onset for trial 85 in block 2,Image onset,1575398480.900697,85
+2,Adjust Task begins for trial 85 in block 2,Adjust task,1575398482.434858,85
+2,Adjust Task ends for trial 85 in block 2,,1575398483.086598,85
+2,Ending trial 85 in block 2,End trial,1575398483.103263,85
+2,Block 2 Ends,,1575398483.18335,
+3,Block 3 Begins,Block begins,1575398489.076992,
+3,Begin for trial 1 in block 3,Trial begins,1575398489.1244218,1
+3,Fixation dot begins for trial 1 in block 3,Fixation dot,1575398489.1245282,1
+3,Image onset for trial 1 in block 3,Image onset,1575398490.459918,1
+3,Adjust Task begins for trial 1 in block 3,Adjust task,1575398492.019281,1
+3,Adjust Task ends for trial 1 in block 3,,1575398497.768806,1
+3,Ending trial 1 in block 3,End trial,1575398497.7871318,1
+3,Begin for trial 2 in block 3,Trial begins,1575398497.788099,2
+3,Fixation dot begins for trial 2 in block 3,Fixation dot,1575398497.7881799,2
+3,Image onset for trial 2 in block 3,Image onset,1575398498.6419919,2
+3,Adjust Task begins for trial 2 in block 3,Adjust task,1575398500.2026072,2
+3,Adjust Task ends for trial 2 in block 3,,1575398501.586269,2
+3,Ending trial 2 in block 3,End trial,1575398501.6030169,2
+3,Begin for trial 3 in block 3,Trial begins,1575398501.60383,3
+3,Fixation dot begins for trial 3 in block 3,Fixation dot,1575398501.603928,3
+3,Image onset for trial 3 in block 3,Image onset,1575398502.3635619,3
+3,Adjust Task begins for trial 3 in block 3,Adjust task,1575398503.902555,3
+3,Adjust Task ends for trial 3 in block 3,,1575398507.03666,3
+3,Ending trial 3 in block 3,End trial,1575398507.052365,3
+3,Begin for trial 4 in block 3,Trial begins,1575398507.053472,4
+3,Fixation dot begins for trial 4 in block 3,Fixation dot,1575398507.0535622,4
+3,Image onset for trial 4 in block 3,Image onset,1575398507.812073,4
+3,Adjust Task begins for trial 4 in block 3,Adjust task,1575398509.352215,4
+3,Adjust Task ends for trial 4 in block 3,,1575398512.869071,4
+3,Ending trial 4 in block 3,End trial,1575398512.88723,4
+3,Begin for trial 5 in block 3,Trial begins,1575398512.888253,5
+3,Fixation dot begins for trial 5 in block 3,Fixation dot,1575398512.888405,5
+3,Image onset for trial 5 in block 3,Image onset,1575398514.3980002,5
+3,Adjust Task begins for trial 5 in block 3,Adjust task,1575398515.952519,5
+3,Adjust Task ends for trial 5 in block 3,,1575398517.7357361,5
+3,Ending trial 5 in block 3,End trial,1575398517.752953,5
+3,Begin for trial 6 in block 3,Trial begins,1575398517.754399,6
+3,Fixation dot begins for trial 6 in block 3,Fixation dot,1575398517.754643,6
+3,Image onset for trial 6 in block 3,Image onset,1575398518.232457,6
+3,Adjust Task begins for trial 6 in block 3,Adjust task,1575398519.752411,6
+3,Adjust Task ends for trial 6 in block 3,,1575398521.071743,6
+3,Ending trial 6 in block 3,End trial,1575398521.087374,6
+3,Begin for trial 7 in block 3,Trial begins,1575398521.0884302,7
+3,Fixation dot begins for trial 7 in block 3,Fixation dot,1575398521.0885608,7
+3,Image onset for trial 7 in block 3,Image onset,1575398522.375654,7
+3,Adjust Task begins for trial 7 in block 3,Adjust task,1575398523.936119,7
+3,Adjust Task ends for trial 7 in block 3,,1575398525.6704352,7
+3,Ending trial 7 in block 3,End trial,1575398525.686808,7
+3,Begin for trial 8 in block 3,Trial begins,1575398525.687989,8
+3,Fixation dot begins for trial 8 in block 3,Fixation dot,1575398525.688127,8
+3,Image onset for trial 8 in block 3,Image onset,1575398527.239595,8
+3,Adjust Task begins for trial 8 in block 3,Adjust task,1575398528.818998,8
+3,Adjust Task ends for trial 8 in block 3,,1575398530.323626,8
+3,Ending trial 8 in block 3,End trial,1575398530.336297,8
+3,Begin for trial 9 in block 3,Trial begins,1575398530.3376179,9
+3,Fixation dot begins for trial 9 in block 3,Fixation dot,1575398530.337844,9
+3,Image onset for trial 9 in block 3,Image onset,1575398531.223271,9
+3,Adjust Task begins for trial 9 in block 3,Adjust task,1575398532.768828,9
+3,Adjust Task ends for trial 9 in block 3,,1575398534.203843,9
+3,Ending trial 9 in block 3,End trial,1575398534.220441,9
+3,Begin for trial 10 in block 3,Trial begins,1575398534.221497,10
+3,Fixation dot begins for trial 10 in block 3,Fixation dot,1575398534.22159,10
+3,Image onset for trial 10 in block 3,Image onset,1575398535.4191942,10
+3,Adjust Task begins for trial 10 in block 3,Adjust task,1575398536.9871612,10
+3,Adjust Task ends for trial 10 in block 3,,1575398537.7368581,10
+3,Ending trial 10 in block 3,End trial,1575398537.752865,10
+3,Begin for trial 11 in block 3,Trial begins,1575398537.753911,11
+3,Fixation dot begins for trial 11 in block 3,Fixation dot,1575398537.754098,11
+3,Image onset for trial 11 in block 3,Image onset,1575398539.21135,11
+3,Adjust Task begins for trial 11 in block 3,Adjust task,1575398540.753243,11
+3,Adjust Task ends for trial 11 in block 3,,1575398541.3042061,11
+3,Ending trial 11 in block 3,End trial,1575398541.3195179,11
+3,Begin for trial 12 in block 3,Trial begins,1575398541.32027,12
+3,Fixation dot begins for trial 12 in block 3,Fixation dot,1575398541.3203468,12
+3,Image onset for trial 12 in block 3,Image onset,1575398542.581961,12
+3,Adjust Task begins for trial 12 in block 3,Adjust task,1575398544.152822,12
+3,Adjust Task ends for trial 12 in block 3,,1575398544.670224,12
+3,Ending trial 12 in block 3,End trial,1575398544.6879182,12
+3,Begin for trial 13 in block 3,Trial begins,1575398544.6888971,13
+3,Fixation dot begins for trial 13 in block 3,Fixation dot,1575398544.68901,13
+3,Image onset for trial 13 in block 3,Image onset,1575398545.921897,13
+3,Adjust Task begins for trial 13 in block 3,Adjust task,1575398547.503045,13
+3,Adjust Task ends for trial 13 in block 3,,1575398548.520462,13
+3,Ending trial 13 in block 3,End trial,1575398548.537456,13
+3,Begin for trial 14 in block 3,Trial begins,1575398548.538356,14
+3,Fixation dot begins for trial 14 in block 3,Fixation dot,1575398548.538465,14
+3,Image onset for trial 14 in block 3,Image onset,1575398549.553388,14
+3,Adjust Task begins for trial 14 in block 3,Adjust task,1575398551.1027899,14
+3,Adjust Task ends for trial 14 in block 3,,1575398553.670319,14
+3,Ending trial 14 in block 3,End trial,1575398553.687603,14
+3,Begin for trial 15 in block 3,Trial begins,1575398553.6886668,15
+3,Fixation dot begins for trial 15 in block 3,Fixation dot,1575398553.6888509,15
+3,Image onset for trial 15 in block 3,Image onset,1575398554.7157881,15
+3,Adjust Task begins for trial 15 in block 3,Adjust task,1575398556.288455,15
+3,Adjust Task ends for trial 15 in block 3,,1575398556.870474,15
+3,Ending trial 15 in block 3,End trial,1575398556.8873441,15
+3,Begin for trial 16 in block 3,Trial begins,1575398556.8885398,16
+3,Fixation dot begins for trial 16 in block 3,Fixation dot,1575398556.888631,16
+3,Image onset for trial 16 in block 3,Image onset,1575398557.9811342,16
+3,Adjust Task begins for trial 16 in block 3,Adjust task,1575398559.552643,16
+3,Adjust Task ends for trial 16 in block 3,,1575398560.9882429,16
+3,Ending trial 16 in block 3,End trial,1575398561.0055768,16
+3,Begin for trial 17 in block 3,Trial begins,1575398561.0068622,17
+3,Fixation dot begins for trial 17 in block 3,Fixation dot,1575398561.007034,17
+3,Image onset for trial 17 in block 3,Image onset,1575398562.3323069,17
+3,Adjust Task begins for trial 17 in block 3,Adjust task,1575398563.886558,17
+3,Adjust Task ends for trial 17 in block 3,,1575398569.236691,17
+3,Ending trial 17 in block 3,End trial,1575398569.2543402,17
+3,Begin for trial 18 in block 3,Trial begins,1575398569.255757,18
+3,Fixation dot begins for trial 18 in block 3,Fixation dot,1575398569.255959,18
+3,Image onset for trial 18 in block 3,Image onset,1575398570.6613948,18
+3,Adjust Task begins for trial 18 in block 3,Adjust task,1575398572.2038028,18
+3,Adjust Task ends for trial 18 in block 3,,1575398574.457206,18
+3,Ending trial 18 in block 3,End trial,1575398574.470582,18
+3,Begin for trial 19 in block 3,Trial begins,1575398574.471686,19
+3,Fixation dot begins for trial 19 in block 3,Fixation dot,1575398574.47182,19
+3,Image onset for trial 19 in block 3,Image onset,1575398575.611776,19
+3,Adjust Task begins for trial 19 in block 3,Adjust task,1575398577.1536791,19
+3,Adjust Task ends for trial 19 in block 3,,1575398580.40389,19
+3,Ending trial 19 in block 3,End trial,1575398580.421741,19
+3,Begin for trial 20 in block 3,Trial begins,1575398580.4228349,20
+3,Fixation dot begins for trial 20 in block 3,Fixation dot,1575398580.4230342,20
+3,Image onset for trial 20 in block 3,Image onset,1575398581.377623,20
+3,Adjust Task begins for trial 20 in block 3,Adjust task,1575398582.9196959,20
+3,Adjust Task ends for trial 20 in block 3,,1575398584.620018,20
+3,Ending trial 20 in block 3,End trial,1575398584.638806,20
+3,Begin for trial 21 in block 3,Trial begins,1575398584.639908,21
+3,Fixation dot begins for trial 21 in block 3,Fixation dot,1575398584.640054,21
+3,Image onset for trial 21 in block 3,Image onset,1575398585.81315,21
+3,Adjust Task begins for trial 21 in block 3,Adjust task,1575398587.3701608,21
+3,Adjust Task ends for trial 21 in block 3,,1575398588.919908,21
+3,Ending trial 21 in block 3,End trial,1575398588.938227,21
+3,Begin for trial 22 in block 3,Trial begins,1575398588.939231,22
+3,Fixation dot begins for trial 22 in block 3,Fixation dot,1575398588.9393458,22
+3,Image onset for trial 22 in block 3,Image onset,1575398590.48886,22
+3,Adjust Task begins for trial 22 in block 3,Adjust task,1575398592.0537758,22
+3,Adjust Task ends for trial 22 in block 3,,1575398593.6708338,22
+3,Ending trial 22 in block 3,End trial,1575398593.6889658,22
+3,Begin for trial 23 in block 3,Trial begins,1575398593.6902258,23
+3,Fixation dot begins for trial 23 in block 3,Fixation dot,1575398593.690361,23
+3,Image onset for trial 23 in block 3,Image onset,1575398595.0534039,23
+3,Adjust Task begins for trial 23 in block 3,Adjust task,1575398596.603877,23
+3,Adjust Task ends for trial 23 in block 3,,1575398597.804733,23
+3,Ending trial 23 in block 3,End trial,1575398597.821355,23
+3,Begin for trial 24 in block 3,Trial begins,1575398597.8223932,24
+3,Fixation dot begins for trial 24 in block 3,Fixation dot,1575398597.8224719,24
+3,Image onset for trial 24 in block 3,Image onset,1575398599.497514,24
+3,Adjust Task begins for trial 24 in block 3,Adjust task,1575398601.071379,24
+3,Adjust Task ends for trial 24 in block 3,,1575398603.8701289,24
+3,Ending trial 24 in block 3,End trial,1575398603.8884869,24
+3,Begin for trial 25 in block 3,Trial begins,1575398603.889921,25
+3,Fixation dot begins for trial 25 in block 3,Fixation dot,1575398603.8901188,25
+3,Image onset for trial 25 in block 3,Image onset,1575398605.2220101,25
+3,Adjust Task begins for trial 25 in block 3,Adjust task,1575398606.8213508,25
+3,Adjust Task ends for trial 25 in block 3,,1575398608.353857,25
+3,Ending trial 25 in block 3,End trial,1575398608.3741992,25
+3,Begin for trial 26 in block 3,Trial begins,1575398608.375319,26
+3,Fixation dot begins for trial 26 in block 3,Fixation dot,1575398608.3754508,26
+3,Image onset for trial 26 in block 3,Image onset,1575398609.0626812,26
+3,Adjust Task begins for trial 26 in block 3,Adjust task,1575398610.6049669,26
+3,Adjust Task ends for trial 26 in block 3,,1575398613.104762,26
+3,Ending trial 26 in block 3,End trial,1575398613.124425,26
+3,Begin for trial 27 in block 3,Trial begins,1575398613.1255639,27
+3,Fixation dot begins for trial 27 in block 3,Fixation dot,1575398613.1257658,27
+3,Image onset for trial 27 in block 3,Image onset,1575398614.396539,27
+3,Adjust Task begins for trial 27 in block 3,Adjust task,1575398615.954402,27
+3,Adjust Task ends for trial 27 in block 3,,1575398617.822277,27
+3,Ending trial 27 in block 3,End trial,1575398617.837922,27
+3,Begin for trial 28 in block 3,Trial begins,1575398617.839083,28
+3,Fixation dot begins for trial 28 in block 3,Fixation dot,1575398617.839374,28
+3,Image onset for trial 28 in block 3,Image onset,1575398618.922218,28
+3,Adjust Task begins for trial 28 in block 3,Adjust task,1575398620.487669,28
+3,Adjust Task ends for trial 28 in block 3,,1575398621.904417,28
+3,Ending trial 28 in block 3,End trial,1575398621.921791,28
+3,Begin for trial 29 in block 3,Trial begins,1575398621.922883,29
+3,Fixation dot begins for trial 29 in block 3,Fixation dot,1575398621.9230149,29
+3,Image onset for trial 29 in block 3,Image onset,1575398623.063573,29
+3,Adjust Task begins for trial 29 in block 3,Adjust task,1575398624.622832,29
+3,Adjust Task ends for trial 29 in block 3,,1575398627.1740339,29
+3,Ending trial 29 in block 3,End trial,1575398627.1874619,29
+3,Begin for trial 30 in block 3,Trial begins,1575398627.188401,30
+3,Fixation dot begins for trial 30 in block 3,Fixation dot,1575398627.188651,30
+3,Image onset for trial 30 in block 3,Image onset,1575398628.553855,30
+3,Adjust Task begins for trial 30 in block 3,Adjust task,1575398630.104945,30
+3,Adjust Task ends for trial 30 in block 3,,1575398631.505474,30
+3,Ending trial 30 in block 3,End trial,1575398631.524351,30
+3,Begin for trial 31 in block 3,Trial begins,1575398631.525482,31
+3,Fixation dot begins for trial 31 in block 3,Fixation dot,1575398631.525676,31
+3,Image onset for trial 31 in block 3,Image onset,1575398632.566027,31
+3,Adjust Task begins for trial 31 in block 3,Adjust task,1575398634.104269,31
+3,Adjust Task ends for trial 31 in block 3,,1575398634.73915,31
+3,Ending trial 31 in block 3,End trial,1575398634.754713,31
+3,Begin for trial 32 in block 3,Trial begins,1575398634.7557352,32
+3,Fixation dot begins for trial 32 in block 3,Fixation dot,1575398634.7558699,32
+3,Image onset for trial 32 in block 3,Image onset,1575398635.630194,32
+3,Adjust Task begins for trial 32 in block 3,Adjust task,1575398637.154955,32
+3,Adjust Task ends for trial 32 in block 3,,1575398637.6589708,32
+3,Ending trial 32 in block 3,End trial,1575398637.671099,32
+3,Begin for trial 33 in block 3,Trial begins,1575398637.6721191,33
+3,Fixation dot begins for trial 33 in block 3,Fixation dot,1575398637.672235,33
+3,Image onset for trial 33 in block 3,Image onset,1575398638.623921,33
+3,Adjust Task begins for trial 33 in block 3,Adjust task,1575398640.171372,33
+3,Adjust Task ends for trial 33 in block 3,,1575398641.106299,33
+3,Ending trial 33 in block 3,End trial,1575398641.123596,33
+3,Begin for trial 34 in block 3,Trial begins,1575398641.1246421,34
+3,Fixation dot begins for trial 34 in block 3,Fixation dot,1575398641.124723,34
+3,Image onset for trial 34 in block 3,Image onset,1575398641.983989,34
+3,Adjust Task begins for trial 34 in block 3,Adjust task,1575398643.555205,34
+3,Adjust Task ends for trial 34 in block 3,,1575398644.155143,34
+3,Ending trial 34 in block 3,End trial,1575398644.171796,34
+3,Begin for trial 35 in block 3,Trial begins,1575398644.17297,35
+3,Fixation dot begins for trial 35 in block 3,Fixation dot,1575398644.173103,35
+3,Image onset for trial 35 in block 3,Image onset,1575398644.803356,35
+3,Adjust Task begins for trial 35 in block 3,Adjust task,1575398646.338014,35
+3,Adjust Task ends for trial 35 in block 3,,1575398647.9883862,35
+3,Ending trial 35 in block 3,End trial,1575398648.005523,35
+3,Begin for trial 36 in block 3,Trial begins,1575398648.0066361,36
+3,Fixation dot begins for trial 36 in block 3,Fixation dot,1575398648.0067258,36
+3,Image onset for trial 36 in block 3,Image onset,1575398649.176785,36
+3,Adjust Task begins for trial 36 in block 3,Adjust task,1575398650.7243788,36
+3,Adjust Task ends for trial 36 in block 3,,1575398651.305026,36
+3,Ending trial 36 in block 3,End trial,1575398651.322471,36
+3,Begin for trial 37 in block 3,Trial begins,1575398651.323466,37
+3,Fixation dot begins for trial 37 in block 3,Fixation dot,1575398651.323555,37
+3,Image onset for trial 37 in block 3,Image onset,1575398652.4589682,37
+3,Adjust Task begins for trial 37 in block 3,Adjust task,1575398654.006724,37
+3,Adjust Task ends for trial 37 in block 3,,1575398655.838702,37
+3,Ending trial 37 in block 3,End trial,1575398655.855278,37
+3,Begin for trial 38 in block 3,Trial begins,1575398655.856508,38
+3,Fixation dot begins for trial 38 in block 3,Fixation dot,1575398655.8567522,38
+3,Image onset for trial 38 in block 3,Image onset,1575398657.346239,38
+3,Adjust Task begins for trial 38 in block 3,Adjust task,1575398658.921367,38
+3,Adjust Task ends for trial 38 in block 3,,1575398665.055357,38
+3,Ending trial 38 in block 3,End trial,1575398665.073077,38
+3,Begin for trial 39 in block 3,Trial begins,1575398665.0741582,39
+3,Fixation dot begins for trial 39 in block 3,Fixation dot,1575398665.074304,39
+3,Image onset for trial 39 in block 3,Image onset,1575398666.3985448,39
+3,Adjust Task begins for trial 39 in block 3,Adjust task,1575398667.9548092,39
+3,Adjust Task ends for trial 39 in block 3,,1575398668.5384068,39
+3,Ending trial 39 in block 3,End trial,1575398668.5560372,39
+3,Begin for trial 40 in block 3,Trial begins,1575398668.5674372,40
+3,Fixation dot begins for trial 40 in block 3,Fixation dot,1575398668.567582,40
+3,Image onset for trial 40 in block 3,Image onset,1575398669.729334,40
+3,Adjust Task begins for trial 40 in block 3,Adjust task,1575398671.2720718,40
+3,Adjust Task ends for trial 40 in block 3,,1575398673.104655,40
+3,Ending trial 40 in block 3,End trial,1575398673.122383,40
+3,Begin for trial 41 in block 3,Trial begins,1575398673.123583,41
+3,Fixation dot begins for trial 41 in block 3,Fixation dot,1575398673.123668,41
+3,Image onset for trial 41 in block 3,Image onset,1575398674.232754,41
+3,Adjust Task begins for trial 41 in block 3,Adjust task,1575398675.805862,41
+3,Adjust Task ends for trial 41 in block 3,,1575398676.2883441,41
+3,Ending trial 41 in block 3,End trial,1575398676.306276,41
+3,Begin for trial 42 in block 3,Trial begins,1575398676.307394,42
+3,Fixation dot begins for trial 42 in block 3,Fixation dot,1575398676.3074791,42
+3,Image onset for trial 42 in block 3,Image onset,1575398677.262273,42
+3,Adjust Task begins for trial 42 in block 3,Adjust task,1575398678.80823,42
+3,Adjust Task ends for trial 42 in block 3,,1575398679.971245,42
+3,Ending trial 42 in block 3,End trial,1575398679.989722,42
+3,Begin for trial 43 in block 3,Trial begins,1575398679.991143,43
+3,Fixation dot begins for trial 43 in block 3,Fixation dot,1575398679.991402,43
+3,Image onset for trial 43 in block 3,Image onset,1575398680.983351,43
+3,Adjust Task begins for trial 43 in block 3,Adjust task,1575398682.5210922,43
+3,Adjust Task ends for trial 43 in block 3,,1575398683.0227368,43
+3,Ending trial 43 in block 3,End trial,1575398683.039505,43
+3,Begin for trial 44 in block 3,Trial begins,1575398683.040458,44
+3,Fixation dot begins for trial 44 in block 3,Fixation dot,1575398683.040534,44
+3,Image onset for trial 44 in block 3,Image onset,1575398684.569866,44
+3,Adjust Task begins for trial 44 in block 3,Adjust task,1575398686.1624389,44
+3,Adjust Task ends for trial 44 in block 3,,1575398688.9565492,44
+3,Ending trial 44 in block 3,End trial,1575398688.973259,44
+3,Begin for trial 45 in block 3,Trial begins,1575398688.974404,45
+3,Fixation dot begins for trial 45 in block 3,Fixation dot,1575398688.9745312,45
+3,Image onset for trial 45 in block 3,Image onset,1575398690.527644,45
+3,Adjust Task begins for trial 45 in block 3,Adjust task,1575398692.1061802,45
+3,Adjust Task ends for trial 45 in block 3,,1575398694.805829,45
+3,Ending trial 45 in block 3,End trial,1575398694.8230479,45
+3,Begin for trial 46 in block 3,Trial begins,1575398694.824679,46
+3,Fixation dot begins for trial 46 in block 3,Fixation dot,1575398694.824835,46
+3,Image onset for trial 46 in block 3,Image onset,1575398696.162921,46
+3,Adjust Task begins for trial 46 in block 3,Adjust task,1575398697.7056582,46
+3,Adjust Task ends for trial 46 in block 3,,1575398698.422507,46
+3,Ending trial 46 in block 3,End trial,1575398698.439404,46
+3,Begin for trial 47 in block 3,Trial begins,1575398698.4405172,47
+3,Fixation dot begins for trial 47 in block 3,Fixation dot,1575398698.440609,47
+3,Image onset for trial 47 in block 3,Image onset,1575398699.9174201,47
+3,Adjust Task begins for trial 47 in block 3,Adjust task,1575398701.4726,47
+3,Adjust Task ends for trial 47 in block 3,,1575398704.088781,47
+3,Ending trial 47 in block 3,End trial,1575398704.106596,47
+3,Begin for trial 48 in block 3,Trial begins,1575398704.108042,48
+3,Fixation dot begins for trial 48 in block 3,Fixation dot,1575398704.1082182,48
+3,Image onset for trial 48 in block 3,Image onset,1575398705.235528,48
+3,Adjust Task begins for trial 48 in block 3,Adjust task,1575398706.7728362,48
+3,Adjust Task ends for trial 48 in block 3,,1575398709.1394272,48
+3,Ending trial 48 in block 3,End trial,1575398709.156242,48
+3,Begin for trial 49 in block 3,Trial begins,1575398709.157398,49
+3,Fixation dot begins for trial 49 in block 3,Fixation dot,1575398709.157521,49
+3,Image onset for trial 49 in block 3,Image onset,1575398710.34966,49
+3,Adjust Task begins for trial 49 in block 3,Adjust task,1575398711.889524,49
+3,Adjust Task ends for trial 49 in block 3,,1575398714.205892,49
+3,Ending trial 49 in block 3,End trial,1575398714.222761,49
+3,Begin for trial 50 in block 3,Trial begins,1575398714.223619,50
+3,Fixation dot begins for trial 50 in block 3,Fixation dot,1575398714.223729,50
+3,Image onset for trial 50 in block 3,Image onset,1575398715.796575,50
+3,Adjust Task begins for trial 50 in block 3,Adjust task,1575398717.356132,50
+3,Adjust Task ends for trial 50 in block 3,,1575398719.561416,50
+3,Ending trial 50 in block 3,End trial,1575398719.572448,50
+3,Begin for trial 51 in block 3,Trial begins,1575398719.573503,51
+3,Fixation dot begins for trial 51 in block 3,Fixation dot,1575398719.573627,51
+3,Image onset for trial 51 in block 3,Image onset,1575398720.365942,51
+3,Adjust Task begins for trial 51 in block 3,Adjust task,1575398721.922555,51
+3,Adjust Task ends for trial 51 in block 3,,1575398722.556475,51
+3,Ending trial 51 in block 3,End trial,1575398722.575594,51
+3,Begin for trial 52 in block 3,Trial begins,1575398722.581998,52
+3,Fixation dot begins for trial 52 in block 3,Fixation dot,1575398722.582203,52
+3,Image onset for trial 52 in block 3,Image onset,1575398723.459703,52
+3,Adjust Task begins for trial 52 in block 3,Adjust task,1575398725.006231,52
+3,Adjust Task ends for trial 52 in block 3,,1575398725.539799,52
+3,Ending trial 52 in block 3,End trial,1575398725.55693,52
+3,Begin for trial 53 in block 3,Trial begins,1575398725.558135,53
+3,Fixation dot begins for trial 53 in block 3,Fixation dot,1575398725.558235,53
+3,Image onset for trial 53 in block 3,Image onset,1575398727.080804,53
+3,Adjust Task begins for trial 53 in block 3,Adjust task,1575398728.64012,53
+3,Adjust Task ends for trial 53 in block 3,,1575398731.172429,53
+3,Ending trial 53 in block 3,End trial,1575398731.190497,53
+3,Begin for trial 54 in block 3,Trial begins,1575398731.191606,54
+3,Fixation dot begins for trial 54 in block 3,Fixation dot,1575398731.191745,54
+3,Image onset for trial 54 in block 3,Image onset,1575398732.336122,54
+3,Adjust Task begins for trial 54 in block 3,Adjust task,1575398734.090406,54
+3,Adjust Task ends for trial 54 in block 3,,1575398734.689503,54
+3,Ending trial 54 in block 3,End trial,1575398734.707113,54
+3,Begin for trial 55 in block 3,Trial begins,1575398734.70835,55
+3,Fixation dot begins for trial 55 in block 3,Fixation dot,1575398734.708571,55
+3,Image onset for trial 55 in block 3,Image onset,1575398735.58954,55
+3,Adjust Task begins for trial 55 in block 3,Adjust task,1575398737.1390002,55
+3,Adjust Task ends for trial 55 in block 3,,1575398740.4082298,55
+3,Ending trial 55 in block 3,End trial,1575398740.423627,55
+3,Begin for trial 56 in block 3,Trial begins,1575398740.424701,56
+3,Fixation dot begins for trial 56 in block 3,Fixation dot,1575398740.4248571,56
+3,Image onset for trial 56 in block 3,Image onset,1575398741.2486029,56
+3,Adjust Task begins for trial 56 in block 3,Adjust task,1575398742.790325,56
+3,Adjust Task ends for trial 56 in block 3,,1575398744.327083,56
+3,Ending trial 56 in block 3,End trial,1575398744.33993,56
+3,Begin for trial 57 in block 3,Trial begins,1575398744.3410418,57
+3,Fixation dot begins for trial 57 in block 3,Fixation dot,1575398744.341125,57
+3,Image onset for trial 57 in block 3,Image onset,1575398745.5062459,57
+3,Adjust Task begins for trial 57 in block 3,Adjust task,1575398747.038927,57
+3,Adjust Task ends for trial 57 in block 3,,1575398748.839666,57
+3,Ending trial 57 in block 3,End trial,1575398748.857002,57
+3,Begin for trial 58 in block 3,Trial begins,1575398748.8581288,58
+3,Fixation dot begins for trial 58 in block 3,Fixation dot,1575398748.858277,58
+3,Image onset for trial 58 in block 3,Image onset,1575398750.163198,58
+3,Adjust Task begins for trial 58 in block 3,Adjust task,1575398751.706431,58
+3,Adjust Task ends for trial 58 in block 3,,1575398753.42364,58
+3,Ending trial 58 in block 3,End trial,1575398753.440801,58
+3,Begin for trial 59 in block 3,Trial begins,1575398753.441819,59
+3,Fixation dot begins for trial 59 in block 3,Fixation dot,1575398753.441909,59
+3,Image onset for trial 59 in block 3,Image onset,1575398754.7140238,59
+3,Adjust Task begins for trial 59 in block 3,Adjust task,1575398756.256463,59
+3,Adjust Task ends for trial 59 in block 3,,1575398756.75685,59
+3,Ending trial 59 in block 3,End trial,1575398756.7738838,59
+3,Begin for trial 60 in block 3,Trial begins,1575398756.7749078,60
+3,Fixation dot begins for trial 60 in block 3,Fixation dot,1575398756.775003,60
+3,Image onset for trial 60 in block 3,Image onset,1575398758.101262,60
+3,Adjust Task begins for trial 60 in block 3,Adjust task,1575398759.656974,60
+3,Adjust Task ends for trial 60 in block 3,,1575398761.973599,60
+3,Ending trial 60 in block 3,End trial,1575398761.990175,60
+3,Begin for trial 61 in block 3,Trial begins,1575398761.9912572,61
+3,Fixation dot begins for trial 61 in block 3,Fixation dot,1575398761.991411,61
+3,Image onset for trial 61 in block 3,Image onset,1575398762.916019,61
+3,Adjust Task begins for trial 61 in block 3,Adjust task,1575398764.473145,61
+3,Adjust Task ends for trial 61 in block 3,,1575398765.690628,61
+3,Ending trial 61 in block 3,End trial,1575398765.707902,61
+3,Begin for trial 62 in block 3,Trial begins,1575398765.7087622,62
+3,Fixation dot begins for trial 62 in block 3,Fixation dot,1575398765.708887,62
+3,Image onset for trial 62 in block 3,Image onset,1575398767.0943701,62
+3,Adjust Task begins for trial 62 in block 3,Adjust task,1575398768.640269,62
+3,Adjust Task ends for trial 62 in block 3,,1575398770.989836,62
+3,Ending trial 62 in block 3,End trial,1575398771.0094988,62
+3,Begin for trial 63 in block 3,Trial begins,1575398771.010557,63
+3,Fixation dot begins for trial 63 in block 3,Fixation dot,1575398771.010721,63
+3,Image onset for trial 63 in block 3,Image onset,1575398772.045341,63
+3,Adjust Task begins for trial 63 in block 3,Adjust task,1575398773.606792,63
+3,Adjust Task ends for trial 63 in block 3,,1575398776.691065,63
+3,Ending trial 63 in block 3,End trial,1575398776.707787,63
+3,Begin for trial 64 in block 3,Trial begins,1575398776.708975,64
+3,Fixation dot begins for trial 64 in block 3,Fixation dot,1575398776.7091079,64
+3,Image onset for trial 64 in block 3,Image onset,1575398778.072879,64
+3,Adjust Task begins for trial 64 in block 3,Adjust task,1575398779.6242619,64
+3,Adjust Task ends for trial 64 in block 3,,1575398780.740694,64
+3,Ending trial 64 in block 3,End trial,1575398780.7576141,64
+3,Begin for trial 65 in block 3,Trial begins,1575398780.758976,65
+3,Fixation dot begins for trial 65 in block 3,Fixation dot,1575398780.7591171,65
+3,Image onset for trial 65 in block 3,Image onset,1575398782.001646,65
+3,Adjust Task begins for trial 65 in block 3,Adjust task,1575398783.556902,65
+3,Adjust Task ends for trial 65 in block 3,,1575398785.724268,65
+3,Ending trial 65 in block 3,End trial,1575398785.744689,65
+3,Begin for trial 66 in block 3,Trial begins,1575398785.7456698,66
+3,Fixation dot begins for trial 66 in block 3,Fixation dot,1575398785.745811,66
+3,Image onset for trial 66 in block 3,Image onset,1575398786.813306,66
+3,Adjust Task begins for trial 66 in block 3,Adjust task,1575398788.357456,66
+3,Adjust Task ends for trial 66 in block 3,,1575398789.873646,66
+3,Ending trial 66 in block 3,End trial,1575398789.89089,66
+3,Begin for trial 67 in block 3,Trial begins,1575398789.892084,67
+3,Fixation dot begins for trial 67 in block 3,Fixation dot,1575398789.892172,67
+3,Image onset for trial 67 in block 3,Image onset,1575398791.034796,67
+3,Adjust Task begins for trial 67 in block 3,Adjust task,1575398792.590501,67
+3,Adjust Task ends for trial 67 in block 3,,1575398795.1616168,67
+3,Ending trial 67 in block 3,End trial,1575398795.174787,67
+3,Begin for trial 68 in block 3,Trial begins,1575398795.175911,68
+3,Fixation dot begins for trial 68 in block 3,Fixation dot,1575398795.176057,68
+3,Image onset for trial 68 in block 3,Image onset,1575398796.091996,68
+3,Adjust Task begins for trial 68 in block 3,Adjust task,1575398797.640491,68
+3,Adjust Task ends for trial 68 in block 3,,1575398799.308165,68
+3,Ending trial 68 in block 3,End trial,1575398799.324439,68
+3,Begin for trial 69 in block 3,Trial begins,1575398799.325613,69
+3,Fixation dot begins for trial 69 in block 3,Fixation dot,1575398799.325791,69
+3,Image onset for trial 69 in block 3,Image onset,1575398800.202742,69
+3,Adjust Task begins for trial 69 in block 3,Adjust task,1575398801.757495,69
+3,Adjust Task ends for trial 69 in block 3,,1575398802.291393,69
+3,Ending trial 69 in block 3,End trial,1575398802.308415,69
+3,Begin for trial 70 in block 3,Trial begins,1575398802.3094242,70
+3,Fixation dot begins for trial 70 in block 3,Fixation dot,1575398802.309542,70
+3,Image onset for trial 70 in block 3,Image onset,1575398803.109501,70
+3,Adjust Task begins for trial 70 in block 3,Adjust task,1575398804.65731,70
+3,Adjust Task ends for trial 70 in block 3,,1575398805.1745548,70
+3,Ending trial 70 in block 3,End trial,1575398805.191193,70
+3,Begin for trial 71 in block 3,Trial begins,1575398805.1922,71
+3,Fixation dot begins for trial 71 in block 3,Fixation dot,1575398805.192349,71
+3,Image onset for trial 71 in block 3,Image onset,1575398806.571487,71
+3,Adjust Task begins for trial 71 in block 3,Adjust task,1575398808.123651,71
+3,Adjust Task ends for trial 71 in block 3,,1575398809.924448,71
+3,Ending trial 71 in block 3,End trial,1575398809.943388,71
+3,Begin for trial 72 in block 3,Trial begins,1575398809.944448,72
+3,Fixation dot begins for trial 72 in block 3,Fixation dot,1575398809.944575,72
+3,Image onset for trial 72 in block 3,Image onset,1575398810.916499,72
+3,Adjust Task begins for trial 72 in block 3,Adjust task,1575398812.457066,72
+3,Adjust Task ends for trial 72 in block 3,,1575398813.62339,72
+3,Ending trial 72 in block 3,End trial,1575398813.6414962,72
+3,Begin for trial 73 in block 3,Trial begins,1575398813.6426082,73
+3,Fixation dot begins for trial 73 in block 3,Fixation dot,1575398813.642787,73
+3,Image onset for trial 73 in block 3,Image onset,1575398815.159353,73
+3,Adjust Task begins for trial 73 in block 3,Adjust task,1575398816.740679,73
+3,Adjust Task ends for trial 73 in block 3,,1575398819.395894,73
+3,Ending trial 73 in block 3,End trial,1575398819.407557,73
+3,Begin for trial 74 in block 3,Trial begins,1575398819.408797,74
+3,Fixation dot begins for trial 74 in block 3,Fixation dot,1575398819.4089322,74
+3,Image onset for trial 74 in block 3,Image onset,1575398821.02791,74
+3,Adjust Task begins for trial 74 in block 3,Adjust task,1575398822.592322,74
+3,Adjust Task ends for trial 74 in block 3,,1575398824.357731,74
+3,Ending trial 74 in block 3,End trial,1575398824.3750248,74
+3,Begin for trial 75 in block 3,Trial begins,1575398824.376221,75
+3,Fixation dot begins for trial 75 in block 3,Fixation dot,1575398824.3763719,75
+3,Image onset for trial 75 in block 3,Image onset,1575398825.6213949,75
+3,Adjust Task begins for trial 75 in block 3,Adjust task,1575398827.1740491,75
+3,Adjust Task ends for trial 75 in block 3,,1575398828.159075,75
+3,Ending trial 75 in block 3,End trial,1575398828.175167,75
+3,Begin for trial 76 in block 3,Trial begins,1575398828.176078,76
+3,Fixation dot begins for trial 76 in block 3,Fixation dot,1575398828.176151,76
+3,Image onset for trial 76 in block 3,Image onset,1575398829.494703,76
+3,Adjust Task begins for trial 76 in block 3,Adjust task,1575398831.058423,76
+3,Adjust Task ends for trial 76 in block 3,,1575398833.541125,76
+3,Ending trial 76 in block 3,End trial,1575398833.5630982,76
+3,Begin for trial 77 in block 3,Trial begins,1575398833.564054,77
+3,Fixation dot begins for trial 77 in block 3,Fixation dot,1575398833.564128,77
+3,Image onset for trial 77 in block 3,Image onset,1575398835.01184,77
+3,Adjust Task begins for trial 77 in block 3,Adjust task,1575398836.57482,77
+3,Adjust Task ends for trial 77 in block 3,,1575398837.375015,77
+3,Ending trial 77 in block 3,End trial,1575398837.391954,77
+3,Begin for trial 78 in block 3,Trial begins,1575398837.3929348,78
+3,Fixation dot begins for trial 78 in block 3,Fixation dot,1575398837.393016,78
+3,Image onset for trial 78 in block 3,Image onset,1575398838.8954701,78
+3,Adjust Task begins for trial 78 in block 3,Adjust task,1575398840.4586859,78
+3,Adjust Task ends for trial 78 in block 3,,1575398841.991349,78
+3,Ending trial 78 in block 3,End trial,1575398842.011047,78
+3,Begin for trial 79 in block 3,Trial begins,1575398842.0121212,79
+3,Fixation dot begins for trial 79 in block 3,Fixation dot,1575398842.012247,79
+3,Image onset for trial 79 in block 3,Image onset,1575398843.595424,79
+3,Adjust Task begins for trial 79 in block 3,Adjust task,1575398845.175526,79
+3,Adjust Task ends for trial 79 in block 3,,1575398846.62528,79
+3,Ending trial 79 in block 3,End trial,1575398846.641784,79
+3,Begin for trial 80 in block 3,Trial begins,1575398846.642824,80
+3,Fixation dot begins for trial 80 in block 3,Fixation dot,1575398846.643007,80
+3,Image onset for trial 80 in block 3,Image onset,1575398847.948284,80
+3,Adjust Task begins for trial 80 in block 3,Adjust task,1575398849.5080671,80
+3,Adjust Task ends for trial 80 in block 3,,1575398850.928475,80
+3,Ending trial 80 in block 3,End trial,1575398850.9414542,80
+3,Begin for trial 81 in block 3,Trial begins,1575398850.942389,81
+3,Fixation dot begins for trial 81 in block 3,Fixation dot,1575398850.9424589,81
+3,Image onset for trial 81 in block 3,Image onset,1575398852.1960058,81
+3,Adjust Task begins for trial 81 in block 3,Adjust task,1575398853.7823849,81
+3,Adjust Task ends for trial 81 in block 3,,1575398855.475488,81
+3,Ending trial 81 in block 3,End trial,1575398855.4925508,81
+3,Begin for trial 82 in block 3,Trial begins,1575398855.493645,82
+3,Fixation dot begins for trial 82 in block 3,Fixation dot,1575398855.49383,82
+3,Image onset for trial 82 in block 3,Image onset,1575398856.4139168,82
+3,Adjust Task begins for trial 82 in block 3,Adjust task,1575398857.9747462,82
+3,Adjust Task ends for trial 82 in block 3,,1575398858.642365,82
+3,Ending trial 82 in block 3,End trial,1575398858.661579,82
+3,Begin for trial 83 in block 3,Trial begins,1575398858.6625721,83
+3,Fixation dot begins for trial 83 in block 3,Fixation dot,1575398858.662712,83
+3,Image onset for trial 83 in block 3,Image onset,1575398860.214962,83
+3,Adjust Task begins for trial 83 in block 3,Adjust task,1575398861.791507,83
+3,Adjust Task ends for trial 83 in block 3,,1575398862.392129,83
+3,Ending trial 83 in block 3,End trial,1575398862.408834,83
+3,Begin for trial 84 in block 3,Trial begins,1575398862.4099462,84
+3,Fixation dot begins for trial 84 in block 3,Fixation dot,1575398862.4100301,84
+3,Image onset for trial 84 in block 3,Image onset,1575398863.57583,84
+3,Adjust Task begins for trial 84 in block 3,Adjust task,1575398865.141748,84
+3,Adjust Task ends for trial 84 in block 3,,1575398865.676296,84
+3,Ending trial 84 in block 3,End trial,1575398865.692085,84
+3,Begin for trial 85 in block 3,Trial begins,1575398865.6932101,85
+3,Fixation dot begins for trial 85 in block 3,Fixation dot,1575398865.693398,85
+3,Image onset for trial 85 in block 3,Image onset,1575398866.59144,85
+3,Adjust Task begins for trial 85 in block 3,Adjust task,1575398868.159251,85
+3,Adjust Task ends for trial 85 in block 3,,1575398868.625793,85
+3,Ending trial 85 in block 3,End trial,1575398868.6417868,85
+3,Block 3 Ends,,1575398868.7160058,
