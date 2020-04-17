@@ -1,3 +1,4 @@
 [submodule "pupil"]
 	path = pupil
 	url = https://github.com/pupil-labs/pupil.git
+	ignore = dirty
