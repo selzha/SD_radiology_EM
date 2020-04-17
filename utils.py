@@ -6,6 +6,8 @@ from pupil_apriltags import Detector, Detection
 from collections import defaultdict
 import os
 from typing import List, Dict, Tuple, Any
+from glob import glob
+
 
 def print_progress_bar (iteration, total, prefix ='', suffix ='', decimals = 1, length = 100, fill ='█', printEnd ="\r"):
     """
@@ -90,12 +92,13 @@ def detect_tags(frames_path: str, aperture=11, visualize=False) -> Tuple[List[Li
     return frames, dict(tag_ids)
 
 
-def extract_frames(video_path: str, frames_path: str) -> None:
+def extract_frames(video_path: str, frames_path: str, total_frames) -> None:
     """Convert a video (mp4 or similar) into a series of individual PNG frames.
     Make sure to create a directory to store the frames before running this function.
     Args:
         video_path (str): filepath to the video being converted
         frames_path (str): filepath to the target directory that will contain the extract frames
+        total_frames (int): total number of frames in videos
     """
     video = cv2.VideoCapture(video_path)
     count = 0
@@ -104,8 +107,10 @@ def extract_frames(video_path: str, frames_path: str) -> None:
     # Basically just using OpenCV's tools
     while success:
         success, frame = video.read()
-        cv2.imwrite(f'{frames_path}/frame{count}.png', frame)
-        count += 1
+        if success:
+            cv2.imwrite(f'{frames_path}/frame{count}.png', frame)
+            count += 1
+        print_progress_bar(count, total_frames, prefix='Progress:', suffix='Complete', length=50)
 
     # Optional print statement
     print(f'Extracted {count} frames from {video_path}.')
