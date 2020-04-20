@@ -14,7 +14,7 @@ Args:
 """
 
 
-def find_blob(frame_impath, correct_ids, angle, draw=False, verbose=False, progress_bar=True):
+def find_blob(frame_impath, correct_ids, angle, draw=False, verbose=False, progress_bar=True, show=False):
 
     frame, tag_ids = utils.detect_tags(frame_impath, progress_bar)
 
@@ -50,12 +50,12 @@ def find_blob(frame_impath, correct_ids, angle, draw=False, verbose=False, progr
     corners = utils.attribute(frame_cleaned, 'verts')
 
     center_blob, top_left_blob, bottom_right_blob = find_blob_coordinates(frame_impath, centers, corners, angle, draw,
-                                                                          verbose)
+                                                                          verbose, show)
 
     return center_blob, top_left_blob, bottom_right_blob
 
 
-def find_blob_coordinates(frame_impath, centers, corners, angle, draw, verbose):
+def find_blob_coordinates(frame_impath, centers, corners, angle, draw, verbose, show):
     centroid1_hoz = centers[1]
     centroid2_hoz = centers[6]
     centroid1_vert = trig.midpoint(centers[9], centers[8])
@@ -90,13 +90,13 @@ def find_blob_coordinates(frame_impath, centers, corners, angle, draw, verbose):
     if draw:
         draw_blob(frame_impath, corners, start_point_hoz, end_point_hoz, start_point_vert, end_point_vert,
                   intersection_point,
-                  radius_circle, top_left_blob, bottom_right_blob, verbose)
+                  radius_circle, top_left_blob, bottom_right_blob, verbose, show)
 
     return center_blob, top_left_blob, bottom_right_blob
 
 
 def draw_blob(frame_impath, corners, start_point_hoz, end_point_hoz, start_point_vert, end_point_vert, intersection,
-              radius_circle, top_left, bottom_right, verbose):
+              radius_circle, top_left, bottom_right, verbose, show):
     # colors:
     red = (255, 0, 0)
     green = (0, 255, 0)
@@ -116,8 +116,9 @@ def draw_blob(frame_impath, corners, start_point_hoz, end_point_hoz, start_point
     # draw rectangle around blob
     image = cv2.rectangle(image, top_left, bottom_right, blue, thickness)
 
-    plt.figure(figsize=(20, 20))
-    plt.imshow(image)
+    if show:
+        plt.figure(figsize=(20, 20))
+        plt.imshow(image)
 
     path = frame_impath[0:frame_impath.find('frame')]
     frame_name = frame_impath[frame_impath.find('frames/') + 7:]
