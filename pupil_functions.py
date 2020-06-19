@@ -1,3 +1,4 @@
+import pupil
 from pupil.pupil_src.shared_modules import file_methods
 import pandas as pd
 import numpy as np
@@ -21,6 +22,20 @@ def load_annotations(datapath, parsemsg=True):
 
     return plmsgs
 
+def load_manual_annotations(datapath, parsemsg=True):
+    annotations = file_methods.load_pldata_file(datapath, 'annotation_player')
+    if parsemsg:
+        annotations = annotations._asdict()
+        # Get msgs df
+        annot_msg = [annot for annot in annotations['data']]
+        plmsgs = pd.DataFrame()
+        for note in annot_msg:
+            msg = parse_message(note)
+            if not msg.empty:
+                plmsgs = plmsgs.append(msg, ignore_index=True)
+    else:
+        plmsgs = annotations['data']
+    return plmsgs
 
 def parse_message(msg):
     # Input: message to be parsed
