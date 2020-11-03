@@ -49,10 +49,10 @@ def find_blob(frame_impath, correct_ids, angle, draw=False, verbose=False, progr
     # attains the corners for each of the QR codes in the frame; not sorted in any order
     corners = utils.attribute(frame_cleaned, 'verts')
 
-    center_blob, top_left_blob, bottom_right_blob = find_blob_coordinates(frame_impath, centers, corners, angle, draw,
+    center_blob, top_left_blob, bottom_right_blob, screen_center = find_blob_coordinates(frame_impath, centers, corners, angle, draw,
                                                                           verbose, show)
 
-    return center_blob, top_left_blob, bottom_right_blob
+    return center_blob, top_left_blob, bottom_right_blob, screen_center
 
 
 def find_blob_coordinates(frame_impath, centers, corners, angle, draw, verbose, show):
@@ -80,23 +80,23 @@ def find_blob_coordinates(frame_impath, centers, corners, angle, draw, verbose, 
     end_point_vert = (int(centroid2_vert[0]), int(centroid2_vert[1]))
 
     # parameters:
-
+    radius_circle = 65
     size_rectangle_blob = 80
 
-    center_blob = trig.point_in_circle(angle, intersection_point, 65)
+    center_blob = trig.point_in_circle(angle, intersection_point, radius_circle)
     top_left_blob, bottom_right_blob = trig.rect_corners_from_center(center_blob, size_rectangle_blob,
                                                                      size_rectangle_blob)
 
     if draw:
         draw_blob(frame_impath, corners, start_point_hoz, end_point_hoz, start_point_vert, end_point_vert,
                   intersection_point,
-                  65, top_left_blob, bottom_right_blob, verbose, show)
+                  radius_circle, top_left_blob, bottom_right_blob, verbose, show)
 
-    return center_blob, top_left_blob, bottom_right_blob
+    return center_blob, top_left_blob, bottom_right_blob, intersection_point
 
 
 def draw_blob(frame_impath, corners, start_point_hoz, end_point_hoz, start_point_vert, end_point_vert, intersection,
-              65, top_left, bottom_right, verbose, show):
+              radius_circle, top_left, bottom_right, verbose, show):
     # colors:
     red = (255, 0, 0)
     green = (0, 255, 0)
@@ -110,12 +110,17 @@ def draw_blob(frame_impath, corners, start_point_hoz, end_point_hoz, start_point
     image = utils.make_mask_image(image, corners)
     image = cv2.line(image, start_point_hoz, end_point_hoz, red, thickness)  # horizontal line
     image = cv2.line(image, start_point_vert, end_point_vert, red, thickness)  # vertical line
-    image = cv2.circle(image, intersection, 60, green, 8)  # point in the center of the screen
-    image = cv2.circle(image, intersection, 65, blue, 2)  # draw circle
+    image = cv2.circle(image, intersection, 2, green, 8)  # point in the center of the screen
+    image = cv2.circle(image, intersection, radius_circle, blue, 2)  # draw circle
 
     # draw rectangle around blob
     image = cv2.rectangle(image, top_left, bottom_right, blue, thickness)
-
+    #draw circle using rectangle coordinates
+    #center of rectange
+    rectangle_center = (int((top_left[0] + bottom_right[0])/2), int((top_left[1] + bottom_right[1])/2))
+    #diameter of circle
+    circle_radius = int((-top_left[0] + bottom_right[0])/2)
+    image = cv2.circle(image, rectangle_center, circle_radius, green)
     if show:
         plt.figure(figsize=(20, 20))
         plt.imshow(image)
