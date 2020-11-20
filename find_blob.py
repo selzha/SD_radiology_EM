@@ -112,15 +112,19 @@ def draw_blob(frame_impath, corners, start_point_hoz, end_point_hoz, start_point
     image = cv2.line(image, start_point_vert, end_point_vert, red, thickness)  # vertical line
     image = cv2.circle(image, intersection, 2, green, 8)  # point in the center of the screen
     image = cv2.circle(image, intersection, radius_circle, blue, 2)  # draw circle
+    image = cv2.circle(image, intersection, int(radius_circle/2), red, thickness)
 
     # draw rectangle around blob
     image = cv2.rectangle(image, top_left, bottom_right, blue, thickness)
     #draw circle using rectangle coordinates
     #center of rectange
     rectangle_center = (int((top_left[0] + bottom_right[0])/2), int((top_left[1] + bottom_right[1])/2))
-    #diameter of circle
-    circle_radius = int((-top_left[0] + bottom_right[0])/2)
+    #diameter of circle (diagonal or rectangle)
+    circle_radius = int(((-top_left[0] + bottom_right[0])/2) + 5)
+    #circle_radius = int(np.sqrt(((bottom_right[0] - top_left[0])**2) + ((top_left[1]-bottom_right[1])**2))/2)
     image = cv2.circle(image, rectangle_center, circle_radius, green)
+    #draw a bigger circle around center of screen
+
     if show:
         plt.figure(figsize=(20, 20))
         plt.imshow(image)
