@@ -1,9 +1,10 @@
 # serialdependence_radiology
 This repository contains the analysis code for the project serial dependence in medical image perception.
 
+Whitney Lab, Professor David Whitney
 Cristina Ghirardo
 Teresa Canas-Bajo
-
+Selena Zhang
 
 # To do:
 
